@@ -82,11 +82,17 @@ body {
 
 // ─── Home / Post list ─────────────────────────────────────────────────────────
 
-.home { padding-top: 56px; }
+.home {
+  padding-top: 56px;
 
-.post-list-heading {
-  display: none;
+  // hide "Blog" page title and "Posts" subheading
+  > h1, > h2 { display: none; }
 }
+
+.post-list-heading { display: none; }
+
+// hide RSS subscribe link
+.rss-subscribe { display: none; }
 
 .post-list {
   list-style: none;
