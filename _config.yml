@@ -28,7 +28,7 @@ twitter_username:
 github_username:  rasiregar
 
 # Build settings
-theme: minima
+theme: jekyll-theme-basically-basic
 
 header_pages:
   - index.markdown
