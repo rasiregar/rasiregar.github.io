@@ -30,9 +30,14 @@ Some people reading this might accuse me for being out of touch with the reality
 
 I am currently reading Everything by Tuberculosis by John Green. It is such a refreshing book by world-renowned author to speak about the health problem rarely talked by non-health people: Tuberculosis. I am still halfway in, but I got so much insight from the book. From what I read so far, the overall message of book is basically the title: everything is somewhat related to TB.
 
+![alt text](/assets/images/sdoh-tb.jpg)
+*Everything is Tuberculosis by John Green*
+
 I learned about TB since my medical school days, and communicable disease control has been my career of choice for the past years, so I could say that I know a thing or two about tuberculosis and other communicable diseases. Before reading a single sentence of that book, I already agreed with John’s idea that everything is about that disease. Everything is about health.
 
 Yet, health is still overlooked in history. History books are filled with war stories, rise and fall of empires, great figures who change the course of humankind. Less is talked about how the Spanish flu caused to more deaths than the whole combat of World War I, or how malaria contributes to three casualties in pacific theatre of the Second World War for every one casualty due to combat.
+
+![alt text](/assets/images/sdoh-spanish-flu.webp)
 
 And if we talk about recent history, it took only three years for Donald Trump to forget the importance of multilateralism to ensure global health security. Since the Covid-19 pandemic attenuated in 2022, President Trump withdrew the US from the World Health Organization in 2025, crippling the global health infrastrucuture and has not recovered since.
 
@@ -50,7 +55,7 @@ Hence, I come to a conclusion that “social determinants of health” is bullsh
 
 And the funny thing is the contemporary medicine see Social Determinants of Health as a subtopic like
 
-“Oh we should not forget about the social aspects that determines our health yada yada…”
+> *“Oh we should not forget about the social aspects that determines our health yada yada…”*
 
 As if it is not completely the central theme. I had never read a single paper on the “Individual determinants of health”. There is no such thing because that is the whole medical science. We focus all on the individual but rarely about the population. It is a classic seeing the tree but not the forest parable.
 
@@ -73,3 +78,5 @@ My guess would be the one in Leuwiliang would have gained signficiant weight due
 Meanwhile, the doctor in Zurich would have been distraught after being reprimanded by his or her supervisor for being late on a shift because the tram is delayed by two minutes, once.
 
 Being sad, he or she decided to go to Rieterpark to relax, enjoying clean air and open space, and then watching Don Giovanni in Opernhaus. Then he or she is thinking since it is summer, why not hiking in Stoos?
+
+![alt text](/assets/images/sdoh-society.jpg)
