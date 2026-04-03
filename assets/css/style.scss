@@ -73,6 +73,11 @@ body {
     transition: color 0.15s;
 
     &:hover { color: $accent; }
+
+    &.active {
+      color: $text;
+      font-weight: 700;
+    }
   }
 }
 
@@ -223,7 +228,8 @@ body {
 }
 
 .post-author {
-  &::before { content: "·"; margin-right: 16px; }
+  &::before { content: "·"; margin-right: 8px; }
+  margin-left: 8px;
 }
 
 .post-content {
@@ -313,7 +319,8 @@ body {
 
   .wrapper { max-width: $max-w; }
 
-  h1.page-heading,
+  h1.page-heading { display: none; }
+
   h1, h2 {
     font-weight: 700;
     letter-spacing: -0.025em;

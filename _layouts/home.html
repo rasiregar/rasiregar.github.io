@@ -15,7 +15,6 @@ layout: default
       <p class="featured-excerpt">{{ featured.excerpt | strip_html | truncatewords: 40 }}</p>
       <div class="featured-meta">
         <span>{{ featured.date | date: "%B %-d, %Y" }}</span>
-        <a href="{{ featured.url | relative_url }}" class="read-more">Read &rarr;</a>
       </div>
     </article>
 
