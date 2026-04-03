@@ -1,0 +1,58 @@
+---
+layout: post
+title: "A bigger picture"
+date: 2020-03-01 00:00:00 +0700
+---
+
+## A bigger picture
+
+> “He who has a **why**to live can bear almost any**how**” — Freidrich Nietzsche
+
+Memasuki minggu ketujuh menjalani kepaniteraan klinik (atau koas), aku belum merasa beradaptasi penuh dengan kehidupan ini. Sungguh signifikan perubahan yang terjadi, dari yang awalnya hanya seorang mahasiswa menjalani perkuliahan di kelas hingga turun ke rumah sakit mengamati dan turut berperan dalam proses pelayanan kesehatan. Tanggung jawab jauh meningkat, kemampuan dan ketahanan diri semakin diuji.
+
+Di stase pertama yang aku hadapi yaitu Kesehatan Perempuan (yang dibawahi oleh Departemen Kebidanan dan Kandungan), aku sudah tidak lulus ujian sebanyak 3 kali padahal stase ini baru berjalan dua pertiganya. Aku mencoba merefleksikan tentang pendekatan apa yang salah dari penguasaan materi stase ini. Namun, ketika kegagalan itu sudah datang tiga kali berturut-turut, aku pun tidak bisa menampik pikiran bahwa aku tidak mampu beradaptasi dengan baik di sini.
+
+Konsulen yang merupakan pengelola modul ini berpesan kepada kami, para koas: “Remedial merupakan suatu hal yang remeh temeh. Jika kalian tidak bisa menerima kegagalan kecil seperti remed, takutnya kalian tidak bisa menghadapi kegagalan yang lebih besar di masa depan.” Aku setuju sekali dengan pernyataan ini,*toh *juga pada akhirnya ada ujian remedial untuk memperbaiki dan mempelajari kembali kesalahan yang aku buat ketika ujian. Namun, tetap jika aku jujur dengan perasaanku saat ini, aku masih ragu dengan kemampuanku untuk bertahan di masa studi ini.
+
+Kakak-kakak PPDS yang membaca ini seraya akan tergelitik dengan tulisanku, betapa bebanku sekarang tidak ada apa-apanya dengan beban yang mereka hadapi. Aku tidak menyalahkan, memang beban mereka jauh lebih besar daripada adik koas yang masih kecil ini. Namun, tentu apabila mereka berkaca pada waktu mereka koas dahulu, mungkin sedikit banyak ada yang merasa hal yang sama ketika mereka berada di posisi ini.
+
+
+Kembali ke saat ini, aku juga kadang penasaran akan nasibku apabila aku memilih jalan hidup lain. Menimbang*opportunity cost *dari pilihan yang sudah aku ambil. Bisikan*‘things would be better if…*fill in the blank**’ mengangguku di saat-saat kritis, terutama saat aku sedang dihadapi kesulitan dalam menjalani kehidupan ini.
+
+Kelelahan secara fisik dan emosional ini membuatku memutuskan untuk menulis ini. Membedah dan memisahkan untaian pikiran yang kusut akibat kesibukan selama 6 minggu terakhir. Harapannya sederhana, untuk menemukan satu dua butir inspirasi yang kudapat sebelumnya dari bacaan atau pengalaman. Pasti ada sel saraf yang menyimpan memori akan itu. Perjalanan masih panjang, bersih-bersih pikiran dengan mengingat kembali tujuan besar semoga bisa membantuku tetap berjuang.
+
+Ngomong-ngomong soal bacaan, sudah lama aku tidak reguler membaca. Kebutuhan rutin akan kebijaksanaan semakin terasa ketika kelelahan yang hakiki ini mulai terasa hambar dan tidak bermakna.
+
+
+Aku pun mulai teringat dengan bacaanku beberapa waktu lalu di buku [*Man Search for Meaning*](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) karya Viktor Frankl. Buku lama terbitan tahun 1946 ini menceritakan tentang kehidupan Viktor Frankl, psikiater Yahudi berkewarganegaraan Austria, menjadi tahanan di kamp konsentrasi Jerman Nazi selama Perang Dunia II. Di buku itu, dijelaskan secara rinci betapa menderitanya tahanan kamp konsentrasi. Sebagai contoh, mereka harus menjadi buruh kasar selama 20 jam sehari dengan asupan hanya 1 mangkok sup encer dan 1 buah roti. Lebih buruknya lagi semua tahanan yang tidak mampu lagi bekerja akan dibawa oleh sipir ke oven untuk dibakar menjadi abu. Tahanan diperlakukan secara tidak manusiawi, bahkan tidak hewani. Hewan saja diberi bekal pangan dan istirahat yang adekuat.
+
+Di buku itu, diterangkan juga bagaimana Frankl harus menghadapi siksaan dan perlakuan Jerman Nazi dan mempertahankan tekad hidup sementara banyak tahanan-tahanan lain sudah hilang harapan dan bunuh diri. Frankl merupakan pengikut Nietzsche sejati. Ia selalu mengingat salah satu kutipan yang membuka tulisan ini:*He who has a why to live can bear almost any how. *Barang siapa punya alasan hidup yang cukup kuat, dia akan bisa bertahan menghadapi segala rintangan yang hidup bisa berikan.
+
+Dari situ dia bertahan, bersabar, dan tegar walau tubuh lemah lunglai kekurangan gizi. Akhirnya, Jerman Nazi kalah perang dan dia serta tahanan lain bisa bebas. Sejak saat itu, dia mengembangkan pendekatan psikologi baru yaitu logoterapi. Logoterapi berasal dari kata latin*logos *yang berarti makna. Maka, logoterapi merupakan upaya pencarian tujuan atau makna sebagai bagian dari peningkatan kualitas hidup.
+
+Frankl menjelaskan bahwa pencarian makna dalam hidup bisa didapatan dari 3 hal: pekerjaan (melakukan sesuatu yang bermakna), cinta (kasih kepada orang lain), dan keberanian dalam menghadapi masa sulit. Dari ketiga aspek inilah kita bisa mencari apa yang membuat segala ketidaknyamanan dan kesulitan dalam hidup bisa terasa sepadan.
+
+Maka dari itu, mencari kemudahan dan kelancaran saja tidak akan membawa kita kepada kepuasan hidup. Kepuasan didapatkan dari kita yang berhasil memaknai hidup.
+
+
+Ada pula terminologi paradoks Stockdale yang dipopulerkan oleh Jim Collins dalam bukunya [*Good to Great*](https://www.goodreads.com/book/show/76865.Good_to_Great?ac=1&from_search=true&qid=lgcTqT1SJ0&rank=1). Paradoks Stockdale diambil dari pengalaman Laksamana James Stockdale dari Amerika Serikat ketika beliau menjadi tahanan perang di Perang Vietnam selama 7 tahun lamanya. Dalam 7 tahun penahanan itu, Stockdale disiksa terus menerus secara keji oleh tentara Vietnam dan anak buahnya dibunuh satu persatu. Ia yang tidak mengetahui kapan dia akan dibebaskan, tetap bisa bertahan dan berjuang menghadapi cobaan yang begitu amat beratnya, sementara anak buahnya patah semangat satu persatu pula, kondisi yang amat serupa dengan yang dialami Frankl.
+
+Pada akhirnya, Stockdale dibebaskan dan beliau dinobatkan menjadi pahlawan nasional Amerika Serikat. Banyak orang penasaran bagaimana ia bisa bertahan diterpa oleh begitu banyak siksaan dan ketidakpastian akan bertahan hidup. Collins pun bertanya kepada Stockdale siapa yang tidak berhasil bertahan hidup hingga pembebasan?
+
+> “Para orang-orang optimis”
+
+> “Ialah orang-orang yang berkata ‘oh kita akan bebas pada Natal nanti’ dan ketika Natal datang dan pergi, mereka tak kunjung bebas. Lalu, mereka akan mengatakan ‘kita akan bebas pada waktu Paskah’, dan ketika waktu itu datang, mereka belum juga bebas. Hingga natal kembali datang dan mereka mati akibat patah hati.”
+
+Stockdale berpesan bahwa kita tidak boleh menyalahartikan keyakinan bahwa kita akan bertahan dengan keberanian untuk menghadapi kenyataan dalam hidup, seberapa kejamnya itu.
+
+Dari pengalaman berharga mantan tahanan-tahanan perang inilah aku belajar bahwa resiliensi — ketahanan seseorang menghadapi tantangan dalam hidup — didapatkan dari mencari makna dalam kehidupan dan keberanian dalam menghadapi realita yang kadang kejam.
+
+Selain itu pula, aku juga perlu untuk memperlebar perspektif aku dalam melihat suatu kejadian dalam hidup. Melihat perjuangan sehari-hari secara terpisah tidak akan memberi kita makna apapun. Kita bangun pagi, bekerja sepanjang hari, lalu pulang. Tak ada nilai yang bisa diambil dari kejadian terpisah. Akan tetapi, apabila kita menggabungkan setiap kejadian dalam hidup kita, seperti merangkai*puzzle*, kita akan mendapat gambaran utuhnya. Bahwa semua kejadian, baik atau buruk, itulah yang akan membuat kita utuh pada akhirnya. Segala belokan takdir, kejadian yang tidak kita kira akan kita hadapi, kekecewaan kita, semua pada akhirnya akan terpenuhi ketika ajal menjemput. Itulah konsep*amor fati *yang dipopulerkan Nietzsche: kecintaan terhadap takdir.
+
+Semoga kita bisa terus berusaha melukis kanvas kehidupan dengan segala tinta yang takdir berikan. Sebanyak apapun kesalahan yang kita bisa buat, teruslah kita melukis —
+
+— karena hanya kanvas ini yang kita punya.
+
+![Photo by Nik MacMillan on Unsplash](https://cdn-images-1.medium.com/max/800/0*-4x43QK-qlghfwdm)
+
+*Photo by Nik MacMillan on Unsplash*

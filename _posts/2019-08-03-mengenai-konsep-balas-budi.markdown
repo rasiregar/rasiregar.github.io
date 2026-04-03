@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Mengenai Konsep Balas Budi"
+date: 2019-08-03 00:00:00 +0700
+---
+
+## Mengenai Konsep Balas Budi
+
+![Disponsori oleh susu bantal Real Good.](https://cdn-images-1.medium.com/max/800/0*eKpW5W8_08RjxoxF.jpg)
+
+*Disponsori oleh susu bantal Real Good.*Ketika mendengar balas budi, apa yang biasanya muncul di pikiran kita? Orang berbuat baik kepada kita, lantas kita berbuat baik kepada mereka. Bukan begitu? Atau mungkin ada yang terpikir mengenai rentetan kebijakan yang dikeluarkan Pemerintah Kolonial Belanda pada awal abad ke-20 untuk membalas jasa rakyat pribumi yang telah memperkaya mereka dengan kerja paksa? Kalau itu namanya*Politik Balas Budi*. Beruntungnya, konsep Politik Balas Budi kurang lebih sama dengan balas budi yang akan dibahas berikut.
+
+Balas budi dalam bahasa Inggris disebut*Reciprocation*. Definisi*Reciprocation* menurut [*Cambridge English Dictionary*](https://dictionary.cambridge.org/dictionary/english/reciprocation) adalah:​
+
+> the fact of feeling or behaving towards someone else in the same way as they feel or behave towards you
+
+Menurut definisi di atas, balas budi merupakan konsep merasakan atau berperilaku ke orang lain selayaknya mereka merasakan atau berperilaku kepada kita. Sepertinya konsep ini tidak perlu dijelaskan lebih mendalam lagi karena ya…kita semua sudah memahami dan mengamalkannya. Konsep balas budi sudah jadi dasar dari perilaku kita kepada sesama. Orang-orang inspiratif bilangnya*The Golden Rule: To treat others the way you want to be treated*. Orang Jakarta lebih familiarnya ke ungkapan: lo asyik gue santai,* *lo usik gue bantai.
+
+Hemat saya, masyarakat urban paling paham mengenai konsep balas budi ini-tak terkecuali saya. Kita berbuat baik kepada orang, kita mengharapkan mereka berbuat baik kembali kepada kita. Bahkan tidak hanya ‘baik’ saja, tetapi ‘baik’ yang sesuai standar yang telah kita berikan. Apabila orang tidak berbuat sebaik yang kita harapkan (atau malah berbuat buruk kepada kita), kita akan kecewa dan berhenti berbuat baik kepada mereka. Bahkan, kadang kita membalas perbuatan buruk mereka dengan ‘level’ yang serupa seperti yang mereka berikan kepada kita.
+
+![Dikasih apa saya kali ini, jam tangan? buku? Audi RS4? Photo by Nynne Schrøder on Unsplash](https://cdn-images-1.medium.com/max/800/0*psIn99hvsVNw0D9J)
+
+*Dikasih apa saya kali ini, jam tangan? buku? Audi RS4? Photo by Nynne Schrøder on Unsplash*
+
+Ambil saja contoh. Misal kekasih atau teman dekat kita memberikan hadiah yang sangat bagus dan mahal pada hari ulang tahun kita. Kita tentu bersyukur dan berterima kasih atas upaya dan biaya yang dikeluarkan supaya mereka bisa membeli dan memberikan hadiah ini kepada kita. Namun, di satu sisi, kita juga sedikit cemas dan ragu bagaimana membalas hadiah yang selevel pada hari ulang tahun teman atau kekasih kita. Kita takut ketika kita memberikan hadiah yang tidak sebaik yang merekaberikan kepada kita, mereka akan kecewa dan menganggap kita tidak tahu diri.
+
+Contoh kedua, misal kita berkenalan dengan seseorang dan kita mulai berkomunikasi dengan satu sama lain melalui pesan instan (*instant messaging*). Kenalan kita yang satu ini cepat sekali membalas pesan kita dan dibalas dengan begitu atentif dan cermat. Kalau saya sendiri, saya ada rasa tekanan untuk membalas dia secepat dan secermat dia. Mungkin dari kalian ada yang merasa demikian juga? Bahkan saya pernah mengetahui seseorang yang sampai menghitung*bubble *dari pesannya dan mencoba menyetarakannya agar tidak berat sebelah. Sebuah upaya ekstra untuk menyeimbangkan neraca kebaikan.
+
+Tentu saja tidak bijak bagi saya untuk mengeneralisasi bahwa semua masyarakat urban memiliki pola pikir seperti ini. Pasti ada banyak variasi dari pola pikir kita, saya hanya mencoba menarik dari beberapa contoh yang kerap saya temukan di lingkungan saya.
+
+Kembali lagi, saya sendiri heran mengapa harus secara rumit menjelaskan mengenai konsep balas budi. Kalian pasti mengerti, ini sudah menjadi bagian dari keseharian kita. Kita berbuat baik kepada orang yang berbuat baik kepada kita. Kita berbuat buruk kepada orang yang berbuat buruk kepada kita. Jika kita lebih bijaksana sedikit, kita ‘hanya’ berhenti berbuat baik kepada orang yang berbuat buruk kepada kita. Sebuah konsep sederhana.
+
+## Apakah balas budi baik?
+
+Akhir-akhir ini, saya membaca beberapa buku yang mempertanyakan dan meragukan apakah aturan emas benar-benar ‘emas’. Salah satu buku itu adalah* *[*The Courage to Be Disliked*](https://www.goodreads.com/book/show/36622739-the-courage-to-be-disliked?from_search=true&rating=1)* *karangan Ichiro Kishimi dan Fumitake Yoga. Saya sangat menyukai buku ini karena begitu banyak pemikiran yang mempertanyakan konsep etika yang kita anut sekarang. Namun, kali ini saya ingin membahas satu konsep yang pengarang jelaskan melalui buku ini tentang balas budi. Dalam buku ini, Kishimi dan Yoga menjelaskan bahwa sejatinya relas interpersonal dibangun tidak dengan kepercayaan tetapi melalui kepercayaan diri.*Relationships is founded not on ***trust***, but on***confidence***.*
+
+Kishimi dan Yoga mengambil contoh yang cukup ekstrim. Misal kita berbuat baik kepada semua orang dan ternyata orang-orang memanfaatkan kita. Tentu, kita sebagai orang normal akan marah dan kecewa, lalu berhenti berbuat baik kepada orang-orang tersebut. Mungkin beberapa orang bahkan akan membalas dendam. Saya tidak menghakimi atau menyalahkan. Pengkhianatan dan niat buruk sebagai balasan dari niat baik kita cukup untuk membuat kita gusar.
+
+Akan tetapi, Kishimi dan Yoga mengambil pendekatan yang berbeda. Mereka menuliskan bahwa untuk memanfaatkan kebaikan kita bukanlah tanggung jawab kita, melainkan tanggung jawab orang-orang itu. Tanggung jawab kita terbatas pada berbuat baik.
+
+Sejenak pernyataan di atas terdengar tidak masuk akal, idealis, dan sangat lugu. Siapa yang suka dimanfaatkan? Siapa yang suka mendapat balasan buruk atas perbuatan baik kita?
+
+Namun, coba pikirkan kembali. Kebahagiaan diraih apabila kita mempraktikan kebebasan kita, kehendak kita. Untuk memanfaatkan kita, itu urusan mereka. Urusan kita adalah untuk menjalankan fungsi kita sebagai bagian dari masyarakat. Dengan berbuat baik kepada orang lain, berpegang kepada nilai dan norma.
+
+Bayangkan betapa besar kendali kita atas perasaan kita ketika kita tetap memiliki kebebasan dalam bertindak, bagaimanapun orang lain membalasnya? Melatarkan tindakan kita dari lingkungan hanya membuat kita jadi budak dari lingkungan kita. Dan dengan lingkungan yang dinamis dan terus berganti, tak heran terkadang kita seakan tak punya kendali atas perasaan kita.
+
+Tapi jangan mau dibohongi. Kita mampu memilih segala tindakan yang kita lakukan dan tindakan kita akan menjadi latar dari perasaan kita. Maka, berbuat baiklah, dan kita akan menjadi senang.
+
+Lagipula, di sisi lain, konsep balas budi ini (terutama yang dipraktikan masyarakat urban) meruntuhkan prinsip dan nilai kebaikan yang seharusnya kita anut. Kebaikan menjadi komoditas yang diperjualbelikan. Sesuatu yang nilainya kekal dan tak ternilai direduksi menjadi nilai tukar. Keterampilan dan barang tentu bisa kita jual belikan, tetapi tidak dengan nilai dan prinsip.
+
+## Bagaimana sebaiknya kita bertindak?
+
+Bertindak sebagaimana prinsip dan nilai yang kita pegang. Nilai apa yang sebaiknya kita pegang? Itu terserah anda. Biasanya anda tahu sendiri apa prinsip anda, entah diturunkan dari nilai agama, atau teladan orang tua, apapun yang membawa makna dari hidup kita. Bertindak sesuai dengan prinsip dan nilai kita berarti kita memegang kendali keputusan yang kita buat, tidak mendasarkannya kepada orang lain atau lingkungan. Jadi, misal pun prinsip kita adalah untuk membalas perbuatan baik sebanyak yang mereka berikan kepada kita, tidak masalah. Yang penting adalah untuk memastikan tindakan kita berasal dari prinsip yang kita pegang.
+
+Selain itu, kita juga perlu memiliki kepercayaan atas orang lain. Kepercayaan atas diri sendiri membawa diri kita kepada ketenangan, kepercayaan atas orang lain membawa keharmonisan dalam hubungan interpersonal. Dengan kita memiliki kepercayaan yang kuat dengan orang lain, dan memahami apa yang menjadi urusan kita dan apa yang menjadi urusan mereka, niscaya kita bisa lebih bahagia.
+
+Jadi, misal kita ingin berbuat baik kepada orang lain, pastikan bahwa itu didasari atas prinsip diri anda sendiri, bukan merupakan paksaan atau sebuah tekanan dari lingkungan atau orang lain. Sebaliknya, apabila orang berbuat baik atau buruk kepada kita, langkah kita untuk meresponnya seharusnya tidak bergantung kepada orang-orang tersebut, tetapi kepada kita sendiri.
+
+## Ngomong apa sih Abiyyu?
+
+Jika anda kebetulan (re: sangat tidak) bosan membaca uraian panjang ini, beruntung saya bisa merangkumnya dalam satu kalimat imperatif:
+
+> berbuat baiklah tanpa pamrih.
+
+Udah, itu saja.
+
+Apabila orang pada umumnya berbuat buruk kepada orang yang berbuat buruk kepada kita, kita bisa lebih baik dengan ‘hanya’ berhenti berbuat baik kepada orang yang berbuat buruk kepada kita.
+
+Namun, orang yang bahagia akan berlaku baik pada orang lain bagaimanapun orang lain mau berlaku kepada dia.

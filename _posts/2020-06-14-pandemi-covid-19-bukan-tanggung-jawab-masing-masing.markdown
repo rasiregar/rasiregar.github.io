@@ -1,0 +1,65 @@
+---
+layout: post
+title: "Pandemi Covid-19 bukan ‘tanggung jawab masing-masing’"
+date: 2020-06-14 00:00:00 +0700
+---
+
+![Photo by United Nations COVID-19 Response on Unsplash](https://cdn-images-1.medium.com/max/800/0*CUFWJg-QULOGHsH9)
+
+*Photo by United Nations COVID-19 Response on Unsplash*
+
+*Gue*jenuh, *guys*. Pasti kalian juga pada jenuh di rumah*aja *tiga bulan terakhir.
+
+Pandemi Covid-19 ini memang memaksakan kita buat jadi*ansos* (anti sosial)*. Nggak*bisa nongkrong di cafe, *nggak*bisa jalan sama pacar, *nggak*bisa olahraga di luar dengan leluasa lagi. Aktivitas-aktivitas ini bahkan gue sendiri udah lupa sensasinya gimana. Pasti asyik, ya.
+
+Sementara kurva kasus Covid-19 masih belum ada tanda-tanda turun, pemerintah sudah menerapkan kebijakan Adaptasi Kebiasaan Baru (disingkat ABK) alias **New Normal**. Gue pribadi*nggak *setuju sih kebijakan ini, menurut gue terlalu dini. Tetapi apa boleh buat, pemerintah punya pertimbangannya sendiri (terutama dari segi ekonomi) untuk melonggarkan PSBB lagi.
+
+Banyak orang yang perlu kerja buat cari makan.*Nggak *semua pekerjaan bisa di-WFH-*in*, terutama sektor informal. Pemilik warung*nggak *bisa WFH, kecuali warungnya di depan rumah dia.
+
+Pemerintah dari berbagai sisi udah menggalakkan [protokol kesehatan](http://promkes.kemkes.go.id/kmk-no-hk0107-menkes-328-2020-tentang-panduan-pencegahan-pengendalian-covid-19-di-perkantoran-dan-industri) buat dijalankan ketika masa ABK ini perlahan diterapkan. Himbauan kuncinya ada 3: 1)**Pakai Masker**; 2)**Cuci tangan**3)**Jaga jarak**fisik minimal 1 meter. Sederhana sekali.
+
+Selain itu, kalau*nggak *ada urusan penting-penting banget*gak usah lah ya* keluar rumah.*Lo nggak*nongkrong *nggak*di-PHK sama pemilik kafenya. *Lo nggak ketemu*pacar juga belum tentu diputusin (lagipula pacar yang*mutusin lo *gara-gara nggak ketemu pas pandemi gini juga gak layak dipertahanin).*Lo nggak *olahraga di GBK yang ramai sesak sekarang, masih bisa olahraga di sekitaran komplek atau di dalam rumah.
+
+Semua ini*nggak *nyaman, memang. Pakai masker*bikin *sesak, cuci tangan pakai alkohol terlalu sering bisa bikin iritasi, jaga jarak bikin…*nggak nyaman aja deh*. Tapi hal ini perlu banget,*guys*. Beneran. Dan ini bukan tanggung jawab masing-masing yang ingin terbebas dari virus corona. Ini tanggung jawab kita semua.
+
+## Makin kendor aja, gue liat
+
+Sudah seminggu lebih sejak [PSBB transisi ini](https://corona.jakarta.go.id/storage/documents/paparan-gubernur-dki-anies-baswedan-psbb-masa-transisi-5ed8b73f98a93.pdf) berjalan,*kok yang*gue lihat malah banyak dari kita yang kendor melaksanakan protokol kesehatan, ya?
+
+Yang demen olahraga pada*gak *pakai masker kalau lagi jogging di tempat ramai kayak GBK (*sesek*katanya). Pindah dari tempat ke tempat tidak cuci tangan dahulu. Di restoran duduknya masih dempet-dempetan (ini bikin sesek temen *lo tau gak*). Ini cuma contoh, masih banyak kasus yang lain (termasuk doctorpreneur yang barusan*kegep *dugem di Bekasi [pembelaannya dia pake masker]).
+
+Miris*gue*.
+
+Miris karena kayaknya orang udah bosen*ya *sama pandemi ini, jadi abai buat cegah infeksinya. Udah bukan* trending topic*lagi di twitter. Konferensi pers Gugas Covid-19 tiap hari juga makin sepi aja; baru aja waktu dr. Reisa jadi jubir pada nonton — dasar!
+
+Padahal SARS-CoV-2 ini*nggak*peduli lo*bosen*. Virus ini*nggak *bakal*kayak *“Wah, kayaknya manusia*udah *dapet pelajaran,*nih*— dah kita berhenti*yok*,”*nggak*.
+
+Virusnya*nggak bakal capek*; virusnya juga*nggak*bakal *demot*. Lebih suramnya, virusnya*nggak *bakal berhenti menular dari orang ke orang dan membunuh orang-orang di sekitar kita.*
+
+*) kalau kita*nggak* berupaya mencegah penularannya.
+
+Seraya beberapa orang berkata, “*lah yaudah sih,*urusan orang masing-masing,” ada lagi yang bilang, “*biarin aja*kan yang rugi mereka bukan kita yang di rumah aja.”
+
+Sayangnya ini keliru,*bosku — *dan bisa fatal sekali akibatnya kalau orang pada berpikir seperti ini.
+
+Jangan disamakan Covid-19 ini seperti gaya hidup buruk seperti merokok, makan junk food, dan sebagainya yang bisa kita tangkis dengan bilang ‘*mind your own business’*. Pada gaya hidup tidak sehat, pihak yang dirugikan itu cuma*lo doang*yang*ngelakuin *(rokok bisa bikin efek buruk ke yang hirup asapnya juga,* but still*). Di wabah penyakit menular* kayak*sekarang ini, yang dirugikan bukan cuma*lo doang* tapi semua orang yang pernah kontak erat sama* lo*.
+
+*Gue*yakin yang pada abai mayoritas pada kuat sistem imunnya *lah*buat bisa sehat lagi habis terkena Covid-19, tetapi bagaimana nasib orang tua *lo*kalau kena juga (buat yang masih tinggal *bareng*)? Apa bisa sekuat*lo *juga? Kan*nggak*, setidaknya belum tentu.
+
+“Tetapi,*gue *kan udah*nggak *tinggal sama orang tua lagi bi,” kalau di jalan lo berpapasan sama orang tua yang mana dia bisa tertular*lo *terus meninggal, gimana? Kita kan*nggak *bisa milih siapa orang yang bakal kita temuin di luar. Lo pergi ke mall berharap*nggak *ketemu mantan akhirnya ketemu juga kan.
+
+Jangan kira dampak dari Covid-19 itu adil;* it’s not.*Mending yang meninggal cuma yang*nggak *patuh protokol — cepet wabah ini selesai. Kalau lo*nggak *patuh pakai masker misalnya, terus tertular virus corona, abis itu sembuh, sementara ada orang yang*lo *tular sakit terus meninggal, apa itu*nggak *zolim? Lebih zolim kalau kita perhatikan kematian itu bisa dicegah kalau*lo *bisa tahan*nggak *nyaman*dikit *pakai masker.
+
+Pandemi ini ibaratnya perlombaan bakiak tandem ber 270 juta orang: butuh setiap orang dari kita semua untuk melangkah bersama dan kompak agar kita bisa sampai garis finis: pandemi usai. Kita musti cepat karena setiap detik yang kita lewatkan, semakin banyak orang yang meninggal.
+
+Pemerintah telah melaksanakan fungsinya (dengan kinerja yang mampu diperdebatkan), saatnya kita menjalankan fungsi kita. Koar-koar salahin pemerintah tidak akan menggugurkan tanggung jawab kita untuk tidak menularkan tetangga dan kerabat kita.
+
+Buat yang*nggak *menjalankan protokol kesehatan, ya jalankan.
+
+Buat yang sudah menjalankan protokol kesehatan — lebih baik lagi dengan tidak keluar rumah kalau tidak terlalu perlu — ya edukasi orang-orang yang tidak menjalankan. Tanggung jawab kita bagi yang tahu betapa pentingnya hal ini untuk mengedukasi dan mengingatkan orang-orang yang tidak tahu.
+
+## Intinya..?
+
+Kita semua jenuh, kita semua bosan dengan kebiasaan baru ini yang seakan mengekang kita. Tetapi ingat: bosen boleh, bego jangan. Tetap gunakan masker jika keluar rumah (dengan baik dan benar), cuci tangan (dengan baik dan benar pula), jaga jarak fisik (1 meter), dan usahakan*nggak *keluar rumah kalau*nggak *perlu.
+
+Pahami betul bahwa langkah simpel di atas itu bukan cuma buat ngelindungin*lo *doang, tetapi juga orang-orang di sekitar*lo*. Karena kalau ada orang di luar yang tertular lalu meninggal karena ketularan*lo*,*that’s on you*. Tetapi kalau*lo yang *udah baca ini terus masih gak patuh terus ketularan dan meninggal,*well I guess that’s on me*.

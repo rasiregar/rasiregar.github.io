@@ -1,0 +1,81 @@
+---
+layout: post
+title: "If you could teach only one virtue to your child, what would it be?"
+date: 2020-04-25 00:00:00 +0700
+---
+
+## If you could teach only one virtue to your child, what would it be?
+
+![Photo by Priscilla Du Preez on Unsplash](https://cdn-images-1.medium.com/max/800/0*RciMOE8VNmXqgQM1)
+
+*Photo by Priscilla Du Preez on Unsplash*
+
+> Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime. — Maimonides
+
+A couple of weeks ago, I stumbled across this idea of asking my close friends the question above. The idea just came right into my mind when I was lying on my bed doing nothing and I went straight to my whiteboard. Next, I listed every possible virtue that I know. There are about thirty virtues that I could scrawl, with many of it were actually comparable, meaning wise. I took a picture of my scribbled whiteboard, and I sent it to some of my close friends along with the main question. I was curious about what my friends would answer.
+
+![My handwritings are bad, deal with it](https://cdn-images-1.medium.com/max/800/1*l39w8X8aBG-xdDeCJ2cBMQ.jpeg)
+
+*My handwritings are bad, deal with it*
+
+I was a bit worried that my friends would not take this question seriously and ridicule my query. Fortunately, all my friends gave deep and thoughtful answers, reflecting on their experiences and innate principles. The virtues they chose varied between people, giving me a hint of how enormous the external and internal factor that could affect one’s way of thinking.
+
+There was no right or wrong answer.
+
+
+You know, this little rather introspective (or should we call it ‘prospective’) question could dig so much about people. By asking what one virtue that their future child must possess, we indirectly ask what is their most important virtue. We think a particular virtue that we chose is essential to endure challenges in life and to live the best way we possibly can. Growing up from each of our unique surrounding environments, cultures, and parenting methods, the virtue we may choose to be ‘the one that you should possess at all times’ will unsurprisingly be diverse.
+
+This question is also important because it is virtually impossible to pass down so many virtues in the world to a child. Cramming all those high school materials doesn't make us experts in all the subjects. In the end, perhaps there would be three to five cardinal virtues that we can teach to our descendants by years of rearing and parenting. I deliberately limit the virtue into only one so we can actually focus on the one thing, just like the title of [Gary Keller's book](https://www.goodreads.com/book/show/16256798-the-one-thing?from_search=true&from_srp=true&qid=8NJgMxCWaM&rank=1).
+
+Now, back to the story. After being asked that question out of nowhere my friends asked me back about what my answer would be. You know, as the idea just came right up moments ago, I was not ready to answer that question myself. So, I told them that I don’t know. However,* did I really don’t know*?
+
+What I later realize is I was lying to myself to say that I don’t know the answer to the titular question. The ‘voila’ or ‘eureka’ moments we see on Sci-fi movies or we even sometimes experience are not the result of nothingness. It is because of our subconscious mind in the background of our consciousness do the puzzle-solving about hard issues we encounter in daily lives. So, the idea ‘that came out of nowhere’ is not really coming out of nothing. We thought about these eureka, we just are not aware of it.
+
+About the question: it is actually in line with what happened to be my interest lately. This particular issue about the most important virtue of humankind still lingers from the last book I read that is Daring Greatly. To be asked with the same question I asked everyone, I had little to no doubt about what would be*the virtue.*For me, it’s**Honesty**.
+
+## The mother of all virtues
+
+I have been into reading not that long ago. Maybe, it all started three years ago when I was in my second year in the preclinical study. Since then, I have been reading a handful of books with a variety of genres, mostly nonfiction. The nonfiction books I have read are mostly about leadership and self-development. From those books that I have read, I think there is one underlying theme that gives a firm foundation to all the subsequent topics. It doesn’t matter if it is a book about developing habits, or about empowering self-esteem, all of them stem from one general theme of honesty.
+
+My limited but nonetheless dynamic experience until this age has also taught me a lot about honesty. It is truly the mother of all virtues. The gateway of benevolence.
+
+To me, honesty means clarity. It means to be true; to be as it is. This is important because, in order for us to grow, we ought to know our strengths and shortcomings. Without the clarity that embodied in honesty, how could we improve ourselves? If we imagine a pond as the embodiment of our soul, honesty is the clarity of the water, giving way for light to penetrate to the bottom. The cleanliness of the bottom of the pond, whether there is sedimentation, mud, or else can only be seen with clear water. The same goes for beauty. It signifies both of our strengths and shortcoming can only be accurately judged with honesty.
+
+![Photo by Ryan Stone on Unsplash](https://cdn-images-1.medium.com/max/800/0*mIK-7W5BaZ0PNnuN)
+
+*Photo by Ryan Stone on Unsplash*To perceive the world accurately cannot be more vital for our survival. If we misperceive our environment, we could miss the threat that would endanger us later, or we could antagonize false subjects. Honesty as the means of clarity is not only important for us to look outside, but also as important to look inside. To be honest internally means to be aware of our perpetual desire, emotion, feelings, thoughts. Self-awareness without honesty is self-deception.
+
+Honesty also means courage. It takes the most of our bravery to face the truth in our lives that sometimes maybe brutal or unpleasant. To express ourselves freely— notwithstanding the fear of disapproval of the public — takes courage. To face our insecurities and internal fears, to lay upon all responsibilities of things that within our control back to ourselves,*to be realistic *and realize that perfection nor permanence are unattainable, are all acts of daring. Most of the time, the most courageous thing we can do is just to see things as it is and to do things about it accordingly. We would not make any excuses because we don’t need one.
+
+Lastly, honesty means trust. It is the foundation of humanity. It is the main ingredient of cooperation. We would like to be surrounded by people who show themselves as what they truly are. Perhaps the importance of honesty in functioning society would be better described with the omittance of it. We see around us, from the authorities who show blatant deceit in formulating policies to petty criminals and frauds who abuse our neighbors and fellow civilians. Dishonesty erodes the relations between human, it gives space for all other vices to grow, to flourish. Just like honesty is the root of all virtues — dishonesty is the root of all evil.
+
+
+Perhaps, honesty may be the oldest and the most sacred virtue there is, but also the hardest one to practice. It is the source of benevolence, because without it there may be malevolence, deceit, and falsehood. It also needs to be uttered that to write this doesn’t mean in any way that I already master the art of being honest. Just quite the opposite, it is from reflecting myself I concluded that I am tired of deceiving myself. Just like the power of clarity I mentioned, I hope by realizing it, I am able to continually improve myself in the correct way.
+
+I am told that Kolese Kanisius, one of the best private schools in Jakarta, put a large sign in the front of its football field that says ‘be Honest’. Although I am not the alumnus from the said school, I feel that this little symbolism could hold the significant meaning of what the school stands for, what they are trying to achieve with their curriculum and doctrine.
+
+![Canisius College, Menteng, Jakarta. credits to Ignatius Win Tanuwidjaja](https://cdn-images-1.medium.com/max/800/1*D7IFHn1cQzb4C35MQxgSFg.jpeg)
+
+*Canisius College, Menteng, Jakarta. credits to Ignatius Win Tanuwidjaja*## How the monk teaches us about teaching
+
+We all envision our child to bear the most important virtue that enables them to survive this unpredictable and ever-changing world. With our accumulation of experience, we would apply our own unique way of teaching our child. Moreover, there is a gamut of parenting philosophy and methods you can explore in thousands of magazines and books.
+
+I have little to no experience or knowledge about parenting. Thus, I apologize if you are looking for methods of developing virtues in a child but couldn’t find it here. You can read Haim Ginott’s books about parenting, or countless other trustworthy sources. However, I can say with the absolute confidence the unmistakable rule of parenting that is**you have to become what you wish to teach**.
+
+I have to retell this classic story about a monk in a village in someplace in India. This monk is the elder of the village, which means the villagers usually come to him to help solve various problems (including medical and psychological problems). One day, a parent with their only child came to the monk. And then, they told the monk about a problem with their child they cannot overcome.
+
+“Our child has a problem with resisting the temptation of eating sweets. We have tried everything from giving punishments to chastise him but none of it worked. Please tell him something so he could stop eating sweets in order to stop getting fat.”
+
+The monk smiled. Then he said promptly,
+
+“Come back to me in two weeks.”
+
+The parent obeyed the monk’s command and they came back two weeks later. Later, the parent asked the monk, “Why should we wait two weeks if we don’t mind asking?”
+
+The monk answered, “that day you came to me, I had the same problem with resisting sweets. I can’t help your child without tackling the same problem myself. Hence, I ask you to come back two weeks later while I learn to master it.”
+
+**In order to propose a solution, we have to be a solution ourselves.**
+
+Again, this story also shows the power of honesty and openness.
+
+So, what would be your one virtue to teach your future child?

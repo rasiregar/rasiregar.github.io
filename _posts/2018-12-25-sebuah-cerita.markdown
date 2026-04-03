@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Sebuah Cerita"
+date: 2018-12-25 00:00:00 +0700
+---
+
+![Silakan duduk! Cerita ini tak bakal panjang, tapi pasti kamu lelah dengan hidup, bukan?](https://cdn-images-1.medium.com/max/800/0*gGE1Unz_o7AP13w9)
+
+*Silakan duduk! Cerita ini tak bakal panjang, tapi pasti kamu lelah dengan hidup, bukan?*Tentang anak yang tidak tahu diri, berusaha cari tahu, dan kecewa begitu tahu.
+
+Aku tidak mau banyak-banyak menulis tentang diriku, walaupun nanti pada akhirnya akan beratus-ratus kata teruntai dari*train of thought *yang dimulai ketika saya memulai ini.
+
+Tak ada niatan apapun untuk menulis sebuah mahakarya atau*magnum opus*. Saya hanya ingin bercerita tentang diri saya. Kini.
+
+Beragam pikiran melayang di benak saya. Entah mengapa saya membuka medium dan bercerita tentang sesuatu yang tidak bisa diceritakan, tetapi dirasakan? Semoga anda semua wahai pembaca bisa mengerti jalan pikiran saya yang kadang (re: selalu)*ngejelumet*, lompat-lompat, dan minim konteks. Maafkan saya atas tulisan ini.
+
+Tidak ada*outline, *tidak ada benang merah, semua merupakan antologi acak — pikiran saya. Saya menulis apa yang ingin saya tulis.
+
+Kadang saya heran dengan diri saya. Mengapa saya bisa begitu — bodoh? Mengapa saya bisa*ngotot *menjadi bodoh, padahal saya tahu kalau menjadi bodoh itu tidak hanya merugikan diri, tapi juga orang lain?
+
+Padahal saya tahu bahwa saya bukan orang yang paling tahu. Orang yang tahu aja bukan, saya orang yang tempe. Ha ha ha…sebuah tawa untuk menyertai guyonan yang garing. Garing seperti tempe yang saya suka.
+
+Kembali lagi, pesan untuk diri saya sejak saya menginjakkan kaki di tanah panas bernama Depok itu adalah:
+
+> “Kamu itu jangan sok Benar. Banyak belajar lah sama lingkungan. Turunkan egomu hingga kamu bisa mendengar secercah kebenaran dari pernyataan orang yang hampir pasti salah total”
+
+Tapi saya sadar menjalani hidup tanpa ego itu bodoh. Bodoh karena ego adalah antibodi emosimu. Tanpa ego, kamu tak punya perlindungan. Tanpa ego, kamu akan menjadi sasaran empuk orang-orang yang ingin menjatuhkan kamu. Tanpa ego, kamu bukan siapa-siapa.
+
+Maka permasalahan di dunia ini bukanlah orang dengan ego, tapi orang dengan ego yang tak mampu ia kendalikan. Jangan jadi orang yang sombong, tapi jangan juga jadi orang yang tak punya pendirian. Kamu pasti berdiri di atas sesuatu kok. Bisa lumpur, bisa tanah, bisa marmer. Tidak ada yang benar atau salah di dunia ini. Nilai yang kamu anut itu yang menentukan benar atau salah. Ya*toh?*
+
+Musik lo-fi mengalun menemaniku menulis tulisan tak masuk akal ini, karena kalau musiknya K-Pop tak akan ku menulis di Medium — ku kan pasti berjoget.
+
+Selalu ada kenikmatan menulis isi pikiran di tengah kesibukan hidup. Di tengah ekspektasi orang tentangmu, jangan lupa untuk meluangkan waktu untuk mendengar dirimu berbicara. Jadilah pendengar yang baik untuk dirimu sendiri.
+
+Untuk semua orang yang membaca ini — aku sayang kamu. Butuh usaha yang lebih untuk orang tahan membaca ini sampai di titik ini. Jadi, terima kasih ya sudah meluangkan waktumu untuk mendengar saya berbicara dengan diri sendiri. Semoga hidupmu sukses dan penuh warna.

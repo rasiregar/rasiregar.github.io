@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Dari Pemuda Kebingungan"
+date: 2022-05-10 00:00:00 +0700
+---
+
+![](https://cdn-images-1.medium.com/max/800/1*jzROA0u8kjKPqPE-5nbcNQ.jpeg)
+
+Baru saja lulus 2 minggu lalu, pemuda ini kebingungan.
+
+Lucunya pemuda ini*nggak *muda-muda amat sebenarnya. Nahas, masa kuliah yang ditempuhnya lama sekali. Tapi lamanya bukan karena*mandeg *di tugas akhir. Memang kuliahnya saja yang lama.
+
+*Post-graduation anxiety*(ansietas pascakelulusan) ini ada benarnya juga ternyata. Lepas dari naungan*alma mater *(latin dari Ibu pengasuh), masing-masing kita dilepas ke belantara dunia. Tinggal kita sendiri yang menentukan bagaimana jalannya.
+
+Apa mungkin ini lebih cocok disebut sebagai*separation anxiety*? Rasa cemas karena akhirnya berpisah dari kohort yang sama setelah nyaris enam tahun berkuliah bersama, menghadapi dosennya yang sama, mengerjakan tugas yang sama susahnya?
+
+Kerja sama kita keren juga ya; bisa*bikin *kita lulus bareng.
+
+*Ngomong-ngomong*…wajar bukan untuk orang seusiaku merasa cemas dan kebingungan? Mengamati dunia nyata berjalan ternyata gak selalu sesuai yang diajarkan di kelas. Yang diajarkan di bangsal rumah sakit pun juga berbeda. Celah pengetahuan praktis dengan apa yang tertulis di buku ajar memang akan selalu ada. Maka itu, penting bagiku untuk belajar kembali ilmu praktis. Biar*street-smart, *kata orang-orang.
+
+
+Baru saja 2 minggu lulus, idealisme sudah banyak teruji. Jadi ingat zaman mahasiswa dulu (eak*akhirnya *bisa ngomong gini), diingatkan selalu bahwa
+
+> “Idealisme adalah kemewahan terakhir yang hanya dimiliki oleh mahasiswa.”
+
+Maklum aku anak Kastrat dulu — banyak kritik pemerintah, tapi kurang kritik diri sendiri.
+
+Tapi sekarang aku*nggak *lagi mahasiswa. Apa berarti idealisme sudah tidak valid lagi?
+
+“Dunia nyata emang kayak gini dek,” ujar orang yang lebih tua membenarkan tindak kurang bermoral mereka. Skenario yang beberapa kali saya temui.
+
+Saya berharap tidak menjadi orang seperti itu. Tetapi semakin ke sini, saya semakin paham di balik dari pragmatisme tersebut.
+
+Dunia ternyata sekompleks itu. Dan tidak seideal itu. Segalanya terbatas: waktu, tenaga, uang (ini jelas). Untuk bisa meningkatkan sumber-sumber daya itu, perlu banyak kompromi.*Gak *bisa dapet semuanya dalam satu waktu. Teringat kata Oprah Winfrey bahwa*“you can have it all, just not at the same time.”*Itu *bener banget, loh.*Aku*nggak *boleh angkuh — bahwa aku tidak akan melakukan hal yang sama seperti mereka. Apakah saya pernah di posisi mereka? Pasti ada saja pertimbangannya. Bukan berarti membenarkan, tetapi ya tadi. Situasi dunia nyata lebih kompleks dari yang kukira.
+
+Sejak kecil, kita diajari moralitas dengan polaritas yang kentara. Baik dan buruk. Hitam dan putih. Orang baik menang di akhir dan orang jahat akhirnya masuk penjara. Setidaknya itu merupakan skenario penangkapan penjahat dan pengadilan di Kidzania.
+
+Tetapi dewasa ini, semuanya serba abu-abu. Ada orang memberi amal ke orang miskin, tetapi uangnya hasil*nipu *orang. Ada juga orang egois*banget *di pekerjaan, tetapi sayang sama keluarga. Ada yang disidang karena melanggar prokes Covid, tetapi dibebaskan karena berperilaku sopan. Memang kompleks sekali dunia ini.
+
+Mengarungi lautan kelabu ini tidak mudah. Saya belajar etika (cabang ilmu filsafat yang berurusan dengan moralitas) pun juga tidak membuatnya lebih mudah. Justru saya semakin paham sulitnya menentukan patut atau tidaknya suatu tindakan.
+
+![Dan di dunia nyata, gradien warnanya juga tidak berurutan seperti ini…](https://cdn-images-1.medium.com/max/800/1*Yr2dNQvGs34WXnlaqhsPmQ.jpeg)
+
+*Dan di dunia nyata, gradien warnanya juga tidak berurutan seperti ini…*Menentukan mana yang lebih dibenarkan secara moral antara dua tindakan kelabu itu satu hal, memiliki keberanian untuk mengambil tindakan yang benar itu lain hal lagi. Seringkali kita terperangkap dalam dilema di mana kita tahu apa tidak yang benar, tetapi kita tidak cukup berani melakukannya. Melakukan hal yang benar itu kadang tak populer. Yang populer pun juga belum tentu benar. Melakukan hal yang menurut kita benar dan tidak populer butuh keberanian.
+
+## Jalan
+
+Belum lagi aku bicara tentang jalan. Jalan mana yang akan kuarungi setelah lepas landas dari kampus. Banyak sekali opsi yang aku pertimbangkan. Opsi-opsi itu lebih dari sekadar pilihan ingin menjadi spesialis apa. Karena dokter tidak harus menjadi seorang klinisi. Dan manusia tidak harus menjadi seorang dokter. Aku manusia utuh, bukan sekadar gelar yang tercantum di depan namaku.
+
+Menjadi*jack of all trades *kadang bikin frustrasi juga. Minat banyak sekali hal, tetapi tidak ada yang benar-benar ahli. Akibatnya, aku ragu untuk mengambil*leap of faith *dan mencoba mengembangkan salah satu bidang. “Takutnya sudah*nyemplung *taunya bidang lain lebih menarik,” ungkap renunganku.
+
+Saya pernah membaca dalam buku*Designing Your Life *bahwa memiliki peta jalan yang saklek untuk rencana kehidupan kita itu tidak realistis dan sia-sia. Jalan hidup itu…tidak dapat diprediksi. Apa yang kita ingin rencanakan bisa-bisa akhirnya berbeda 180 derajat dengan apa yang sebenarnya terjadi.
+
+Maka dari itu, kata orang bijak baiknya kita mengarungi hidup dengan kompas. Sehingga seberapapun kita tersesat, kita bisa tetap tahu arah mana yang bisa membawa kita ke jalan yang benar. Kompas itu adalah prinsip. Itu yang ingin kucoba. Berhasil atau tidak kompas ini membimbingku? Tunggu 30 tahun lagi.
+
+## Penting
+
+Sebelum jauh aku jelajahi dunia dan seisinya, perlu kubawa bekal. Bekal berupa hal-hal penting yang tidak boleh dilupakan seberapapun jauh perjalanannya. Kutahu bahwa manusia sejatinya adalah makhluk sosial. Hubungan interpersonal adalah nyawa dari kehidupan manusia (kecuali kamu Mark Watney atau Chuck Noland). Maka, kurasa penting untuk kita menjaga hubungan baik dengan orang lain, terlebih lagi orang terdekat.
+
+Saya bersyukur selama hidup nyaris selalu dikelilingi oleh orang-orang yang positif dan mendukung. Orang-orang yang hebat dan dapat dipercaya. Tak sulit bagi saya untuk percaya akan kekuatan ikatan sosial dan persaudaraan bagi seorang individu.
+
+Maka, kuputuskan orang-orang terdekat sebagai bekal. Aku harus terus menjaga hubungan baik dengan orang-orang ini. Untungnya akuhidup di masa dengan teknologi nan canggih. Tak sulit untuk menanyakan kabar sesekali lewat dunia maya. Lebih baik lagi jika bisa bertemu langsung dan bertukar kabar.
+
+
+Jika kamu sedang kebingungan, biar kamu tahu kalau aku juga sedang bingung. Kita semua bingung. Tak ada yang benar-benar tahu bagaimana jalan hidup kita kecuali Yang Mahakuasa. Tugas kita untuk mengarungi dunia dengan penuh tanggung jawab dan bersungguh-sungguh.
+
+Mungkin kita akhirnya mendapatkan apa yang kita mau. Mungkin juga tidak.
+
+Tetapi, siapa tahu yang penting memang bukan titik akhirnya, tetapi perjalanan yang membentang di antaranya. Garis antara tahun lahir dan tahun meninggal di nisan kita kelak. Tak tertulis, tetapi akan termaktub dalam memori.
+
+Rehat telah usai. Pemuda ini melanjutkan perjalanannya.

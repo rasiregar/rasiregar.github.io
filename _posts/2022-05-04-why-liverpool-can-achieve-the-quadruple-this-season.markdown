@@ -1,0 +1,100 @@
+---
+layout: post
+title: "Why Liverpool can achieve the quadruple this season"
+date: 2022-05-04 00:00:00 +0700
+---
+
+## Why Liverpool can achieve the quadruple this season
+
+![Liverpool Squad. Source: alleysport.com](https://cdn-images-1.medium.com/max/800/0*AvXxMrZ_NksYahsr.jpg)
+
+*Liverpool Squad. Source: alleysport.com*It was early morning on Wednesday. Villareal C.F. hosted Liverpool F.C. in the second leg of the UEFA Champions League semifinal. And never I have been more disappointed in them for a while.
+
+Liverpool was trailing 0–2 from Villareal*just*in the first half. That means the Yellow Submarines (nickname for Villareal) have equalized the lead Liverpool have made in the first leg. Suddenly I feel I regret waking up so early to watch this disaster class. I could be witnessing the team I support bottling the Champions League.
+
+I wished Jürgen Klopp blast his squad and reminded them that a dip in form at this stage is unforgivable. The way they played in the first half had been abysmal. If they continue playing like this, no doubt Villareal can extend their lead.
+
+But to be honest, I could understand the players. They have played at least twice in the last couple of weeks. As good as the players are, they are still humans, not robots. A dip in form is predictable. But still, it must be anticipated.
+
+Fortunately, Klopp did his job. Liverpool played much more confidently in the second half. They played like their usual self — the winning ways. Their improved plays resulted in goals: three goals to be exact. Liverpool optimized the weak link of Villareal’s shaky goalkeeper Geronimo Rulli, They ended the match with a 3–2 win (aggregate score 5–2).
+
+With this crucial win, Liverpool is entering the third cup final of this season (after the FA Cup and League Cup). This also marks the third Champions League final appearance for Klopp’s Liverpool (v.**Real Madrid in 2019**and v.**Tottenham Hotspur in 2020**). It is the fourth UCL final for Klopp himself, who previously brought his former team Borussia Dortmund to the UCL final against league rival Bayern Munich in 2013. That’s quite a feat for the German manager.
+
+
+It is certainly an exciting time to be a Liverpool fan. Having supported them since 2011, I followed the Reds through some frustrating periods. The bottling of the Premier League title race(Gerrard slip against Chelsea) is one of them. There was also the period when Liverpool just didn’t have enough quality to compete for the title, let alone on the European stage.
+
+But now, Klopp has transformed Liverpool back into one of the European giants. Since his appointment as the manager of Liverpool in 2015, Klopp lead the Reds to win their sixth Champions League title in 2019 and the first-ever Premier League title in 2020 (ending a 30-year drought of winning first division league title). Klopp’s Liverpool also won UEFA Super Cup (2019) and FIFA Club World Cup (2020). Oh, and don’t forget they have already won League Cup already this season.
+
+Achieving CL and PL title has already cemented Klopp as one of Liverpool’s greatest gaffers. But, seems he doesn’t want to stop there. This season, he brought the Reds to an unprecedented level of persistent high quality in every match, resulting in the phenomenon we are witnessing. It is the first time an English team is making an appearance in all Cup finals (League Cup, FA Cup, and Champions League). And by being second in the league by one point, this Liverpool squad have a genuine chance to achieve a milestone never reached by any other Premier League team:*winning every possible trophy in a season —* **A quadruple** (Premier League, Champions League, Carabao Cup, and FA Cup).
+
+Winning the quadruple will definitely makes this Liverpool team one of the best squad ever assembled in the Premier League, comparable to Arsenal’s Invincibles (who never lost a league match in 2003/2004), Man United’s treble-winning squad in 1999, and Manchester City’s Centurion (achieved the most point in a single PL season: 100).
+
+Liverpool’s success in this season campaign has been largely affected by how Klopp manages the team. What makes Jürgen Klopp and Liverpool feel like a match made in heaven? We could see by looking back how he got here and what he has done to the club since.
+
+## Klopp’s Liverpool Journey
+
+Jürgen Klopp was signed by Liverpool as the manager in 2015 replacing the Northern Irish Brendan Rodgers after a bad stint in the 2015–2016 season. Rodgers had been a Liverpool manager for a little more than three years. Although he failed to bring a title to Liverpool, his feat at the club was actually not that bad. He brought Liverpool to a Premier League title race against Manuel Pellegrini’s Manchester City in the 2013/2014 season, albeit ended up second — trailing by two points.
+
+Nevertheless, Liverpool’s quality has been fluctuating since the beginning of the 21st Century. The club had failed to win a league title for 30 years (before Klopp took over). Trophy and achievement-wise, Liverpool was well far off the other top 4 teams (Manchester United, Chelsea, Arsenal) and also new emerging Manchester City.
+
+Liverpool was not regularly qualified for Champions League (by achieving top 4 in the Premier League table). League is often said to be the best parameter of the team’s quality. Consistency is needed to achieve high positions after playing 35+ games, meeting every other team twice — home and away. Liverpool back then didn’t have that quality nor consistency to compete for the league title. They instead competed in Cup competitions, relying on luck ( meeting certain teams) and the unusual form of the players. This sparks of form sometimes won Liverpool big titles like the Champions League in 2005 or the League Cup title in 2012. Hence, for the most of recent history, Liverpool were only considered a ‘Cup team’.
+
+When Klopp was appointed, Liverpool was trailing in the 10th place after 8 matches in Premier League. And the squad he inherited was far below the other English top teams, quality-wise. In his first press conference as a Liverpool manager, he famously said that he would turn Liverpool “*from doubters to believers*” — changing the mentality of the whole club to become confident in themselves and to eventually compete in the big stages. He also said that he hopes to bring a title to Anfield within four to five years, which eventually proved to be fulfilled at the exact time.
+
+![Jürgen Klopp’s first interview as Liverpool manager (2015). Source: Mirror.co.uk](https://cdn-images-1.medium.com/max/800/0*8cgzo6z-VGnEo9AP.jpg)
+
+*Jürgen Klopp’s first interview as Liverpool manager (2015). Source: Mirror.co.uk*
+
+Klopp really meant it when he said he wanted to turn Liverpool’s mentality. There are so many iconic matches where Liverpool came back from trailing (sometimes by a long margin) and ended up winning the match. The first match that comes to mind must be the famous** 4–0 win against Barcelona**at Anfield in 2019 (winning the tie 4–3). There is also a 4–3 win against Thomas Tuchel’s Dortmund in the semifinal of the Europa League (Lovren scored the winning goal in the 89th minute). And don’t forget Liverpool keeper Alisson’s winning header against West Brom in injury time (final score 3–2). It is the goal that secured this season’s Champions League. And then there are many others.
+
+But behind these famous, dramatic wins, there are also some painful failures. Like the time Klopp’s Liverpool lost the 2016 Europe League final against Sevilla by 1–3. Liverpool also lost the 2019 Champions League Final in Kyiv against Real Madrid (also by 1–3). One of the more painful memories is when Liverpool came second in the Premier League title race against Manchester City by one point after both teams achieve 90+ points in the same season (this will prove to be one of the highest point tally ever in the PL).
+
+Even after those failures Klopp and his squad didn’t relent. He didn’t want to become trapped in the past failures and keep improving his squad, match by match. He lead his team and collaborated with the board to sign the correct players. He tweaked his tactics once his current tactics became easily thwarted by opponents. All of their enterprises lead to this season — arguably the best Liverpool season in their 129-year history.
+
+## What makes this season different
+
+This 2021/2022 season will be over in May, but Liverpool are on the mission to write history if they succeed at achieving the elusive quadruple. The semifinal win against Villareal seals the Champions League final tie in Stade de France on May 28th. Liverpool will play in every possible match they can play, with the surprising number of 61 matches. Even with that number of matches, Liverpool can still win the majority of those matches — losing only 3 matches (two in PL, one in CL). What makes Liverpool able to achieve this impressive form? Is it the tactics? Or the players?
+
+I don’t know for sure, but it’s got to be a little bit of everything.
+
+### Quality and Depth
+
+This season’s Liverpool squad is arguably the best in decades. Even I can say that this squad is up there as the most complete Liverpool squad ever (going to be biased here because I don’t watch Liverpool in Shankly’s nor Paisley’s era). The current starting eleven is studdered with world-class players in every position: Alisson guards the goal, Virgil Van Dijk leads the backline, Thiago commands the midfield, and of course the deadly front three consists of Mo Salah, Sadio Mane, and Diogo Jota/Luis Diaz/Roberto Firmino.
+
+Having quality players certainly help in achieving sustained high performance in all competitions. In the first years of managing Liverpool, Klopp didn’t have many world-class players that can carry out his tactics effectively. His tactic sometimes worked, but the inconsistencies and frequent dip in form from the players disappointed him.
+
+Jürgen Klopp is famous for applying*Gegenpressing *tactics, which instill high pressure on the opponents. They will try to win the ball back immediately after losing it. This tactic, while effective, must be physically demanding for the players. To carry Gegenpressing tactic week in and week out, only with the limited number of players will eventually burn out the players and decrease the quality of their play. Not only that,*Gegenpressing *is also quite dangerous, inviting body contact with opponents that can result in injury (something that derailed Liverpool’s last couple of seasons).
+
+Having world-class players filling the starting eleven, and also backup players with similar qualities enables Klopp to juggle the squad with appropriate game time and rest cycle. The players can rest enough and give their best performance on the pitch every time they are called to perform. The gegenpressing machine can now function effectively.
+
+### Spot on Signings
+
+During Klopp’s reign, Liverpool have to compete with the dreaded Manchester City super-squad led by sextuple-winning manager Josep “Pep” Guardiola. They are a very high-quality side filled with excellent players and the ambitious manager who popularized*tiki-taka*tactics that dominated European football in the late 2000s with Barcelona. Man City is also backed by a generous owner who is willing to spend a gigantic amount of money to sign marquee players. Financial capability-wise, few can compete with Man City.
+
+It is obvious that Liverpool cannot compete with Man City financially. Liverpool still can sign quality players, some of them at quite a high price. But they don’t have a margin of error as big as Man City and Chelsea. They have to make every signing worth the price. If not, they will not have any money to sign more players.
+
+Fortunately, Liverpool’s signings in the last couple of years have been spot on. Klopp started by signing one (or two) potentially world-class players every transfer window, building a proper spine for a quality starting eleven. He advised the board to sign Sadio Mane from Southampton, then Virgil Van Dijk and Alisson Becker, and also Mohamed Salah, Thiago, etc.
+Who are the best signings of Klopp's Liverpool tenure? Salah, Mané, Van Dijk and moreThe Premier League's longest-serving manager is to remain in his post until 2026 after agreeing a two-year contract…en.as.com
+Liverpool have a quite old squad, I concede. The average age of Liverpool starting eleven is 27.7 years old — the fourth highest in the Premier League. But the balance between senior and junior players is what makes Liverpool players have a winning mentality.
+
+Signing Thiago was one of the brilliant moves by Klopp. He is a world-class player, having played for the biggest clubs in football (Barcelona and Bayern Munich) and winning 30 trophies. He does not only contribute on the pitch, but also he is [setting up an example for other players](https://theathletic.com/3238881/2022/04/09/fewer-fouls-more-wow-moments-better-position-how-thiago-became-central-to-liverpools-title-hopes/) and disciplined behavior off the pitch. The role of James Milner is also similar. Although he is certainly way past his prime and his physique has been declining, he has wisdom and experience that can affect both, directly and indirectly, the rest of the squad. This social dynamic is what makes Liverpool so relentless in their pursuit of trophies.
+
+### Luck
+
+Liverpool fans will refuse to boil down the fate this season to chance. On the contrary, other clubs’ supporters will undermine Liverpool’s current achievement as just a bit of pure luck. As a Liverpool fan myself, I have to concede that Liverpool is lucky in certain aspects.
+
+The lack of injuries is the most fortunate element of this season’s campaign. Reflecting on the past seasons, Liverpool has been very fortunate that their key players can be fit for most of the campaigns. Last season, both of the first-choice center backs (Van Dijk and Joel Matip) were injured for most of the season, leaving Klopp having to use squad players (Nat Phillips and Rhys Williams) and experimenting with more than 20 different CB partnerships. The availability of Van Dijk really contributed to the stability and reliability of Liverpool’s defense, reflected by Liverpool having the most clean sheets in the Premier League at the moment.
+
+Thiago being fit is also a big contributing factor to Liverpool’s current campaign. He undoubtedly has technical prowess and flair in commanding the Liverpool’s midfield. But, he is also very injury prone. His availability in most of the second half of the season really helped in Liverpool’s impressive form.
+
+Liverpool is also quite lucky to meet modest teams in this season’s Champions League. Many football fans said that Liverpool’s journey to the UCL final has been the easiest in history. While I cannot say for sure, it is definitely easier than the other side of the bracket, with Real Madrid having to meet Paris Saint-Germain, Chelsea, and Manchester City.*But hey*, Villareal is still a very tough team to beat, having beaten European royalties such as Juventus and Bayern Munich to get to the semifinal. And Liverpool can only beat what they are drawn against.
+
+## The Journey to Immortality
+
+The stars have finally aligned. Both the factors within Liverpool’s control (tactics, training, squad) and beyond (fixtures, opponents) have enabled Liverpool to finally make history as the first English team to achieve quadruple. Klopp will have to ask for an impossible favor from the team: to perform at the highest level and win the remaining matches of the season. All of that while hoping Manchester City drops points in any of their remaining League matches (because if they win their remaining matches too, they will win the League). It is in no way easy to fulfill since all the matches are important, and the opponents will have much more rest time than the Liverpool team.
+
+Klopp will have to find a way to keep their players focused in this final period. This kind of focus is somewhat not physiological, and no wage can pay this kind of commitment. He has to appeal to the emotion of the players and promise them immortality. Just like what his own rival Pep once said in Barcelona before winning the sextuple.
+
+> “Gentleman, if you lose today you will continue to be the best team in the world. But if you win today, you will be eternal.” — Josep Guardiola
+
+Aside from the best-case scenario of winning the quadruple, the worst-case scenario could also happen — with Liverpool ending the season with only one trophy. If that happens, the team should still be proud of themselves for their effort to compete for all titles this late in the season. But, with the mentality this squad has, I am sure Klopp’s Reds will put up a dramatic fight in their attempt to be immortal.

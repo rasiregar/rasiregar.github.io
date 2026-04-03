@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Why I read books that I hate"
+date: 2021-05-30 00:00:00 +0700
+---
+
+## Why I read books that I hate
+
+![Photo by NeONBRAND on Unsplash](https://cdn-images-1.medium.com/max/800/0*U7AUQI_RAAe4lSVT)
+
+*Photo by NeONBRAND on Unsplash*
+
+Reading a book is like enjoying a meal. Your experience is down to three main components.
+
+This is down to the author’s ability to convey his ideas in an interesting way to the reader. It can be the grammar and syntax, or the appropriateness of words. The arguably most important thing is to arrange ideas in a clear and logical manner. There are so many styles of writing, each with its own appeal. But to me, any style will do fine as long as it’s clear. Clear thinking forms clear writing.
+
+### 2. Quality of Main Ingredients
+
+The quality of a dish also lies in the quality of its ingredients. Even the likes of Gordon Ramsay or Mario Batali can’t do so much if being given shit ingredients to start with. The same goes for books. Great books are great because it is inspiring. Inspiration comes when your mind recognizes high-quality ideas. Those ideas are either made (by critical thinking) or found meticulously by the author. You don’t want to waste your time reading books about common knowledge reiterated over and over. Or in the case of novels, you don’t want to read the ones with generic and overused tropes. Creativity breeds originality. Originality breeds inspiration.
+
+![Photo by Jason Jarrach on Unsplash](https://cdn-images-1.medium.com/max/800/0*Jq-MRFwdYmz5jqto)
+
+*Photo by Jason Jarrach on Unsplash*### 3. Alignment with Personal Preferences
+
+This is what in the culinary world termed*taste*. You just can’t help it, neither do the cooks. It doesn’t matter if a pizza is made from high-quality ingredients or cooked by the hands of a Michelin star chef. If you don’t fancy pizza then you won’t like it.
+
+In the literature world, one’s taste intertwine with one’s value set. How we see the world and appreciate things in them greatly influenced by our values. Someone who likes reading Dostoyevsky’s works will not enjoy reading Robert T. Kiyosaki that much. One writes novels with deep philosophical themes, while the other writes popular business books.
+
+The same goes for me. Reading books that align with your value does not feel effortful. You keep agreeing with the author and it fuels you to know more about what the author brings, either in ideas (in nonfiction books) or story (Novel). But reading books by the author with opposing values can feel quite challenging. Every statement the author throws can feel like a slap in the face, even blasphemy at times.
+
+It becomes worse if the books that are actually well-written. You will have an internal battle within yourself. Every well-put argument is driving you crazy and questioning your belief. It makes you think like “Have I been wrong this whole time?” That awful feeling is cognitive dissonance at play.
+
+### Hard-to-swallow pills
+
+Even though it’s hard, sometimes I like to read the books that I hate. I see it as some kind of therapy (although reading itself is a kind of therapy). Hard-to-swallow pills; administered daily, if you will. Reading things with opposing values prevents me from being trapped in my echo chamber.
+
+It is so easy to become self-righteous these days. Aided by the filter bubble technology, the contents in your social media feeds are tailored to align with your values and interests. By reading books that I hate, I am more exposed to alternative ways of thinking and see the rationale behind them. I realize too that in many things, two opposing ways of thinking can be both right. What matters is*when *to apply it and in*what *situation. That is the role of wisdom.
+Empathy in the Digital AgeI have been pondering this particular issue for the last couple of months, filling the little space in my head while I…abiyyusiregar.medium.com
+Value and ideology are very complex, made by millions of memories. The interpretation of these neutral memories is down to a mix of emotion, prior experience, and knowledge. So, don’t be too harsh on responding to things as opposed to one’s beliefs. Believe me, if it’s that nonsensical, no one would believe it.
+
+So, expose yourself to a wide range of people with their unique sets of beliefs. Read books that you don’t like. If you are a capitalist trader, reading the people’s guide to capitalism would not hurt. If you are a moralist, reading 48 laws of power can give you new insights into people in the realms of power. In this digital age, moreover, it would be quite a shame to miss out on the opportunity to access bits of knowledge that is God-know-who how much.

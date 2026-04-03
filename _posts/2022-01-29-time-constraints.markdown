@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Time Constraints"
+date: 2022-01-29 00:00:00 +0700
+---
+
+![Photo by Justin Veenema on Unsplash](https://cdn-images-1.medium.com/max/800/0*poW39yfSMWZSXsFC)
+
+*Photo by Justin Veenema on Unsplash*For most of my time, I don’t feel I have enough time. Twenty-four hours a day is not enough. I feel like the current format of time isn’t sufficient to do all the things I need to do. Every time I do something, I look at the time every once in a while . It deprives me to ‘live in the moment’ and enjoy the very thing I am doing at the moment. It takes a toll to my rather time-anxious mood.
+
+I remember a famous paper titled “[a wandering mind is an unhappy mind](https://wjh-www.harvard.edu/~dtg/KILLINGSWORTH%20&%20GILBERT%20%282010%29.pdf)”. Matthew Killingsworth and Daniel Gilbert from Harvard University, conducted a small experiment that measures the happiness level in doing certain activities. The subjects were randomly notified on their phone at any time during the waking hours. Then they were told to rate their feelings from 1–10.
+
+The results are quite revealing. For a start, almost half of the respondents (there are 2250 of them) are mind-wandering at the time of the random survey. And more importantly, we tend to be happier when our mind is not wandering. Even the pleasant mind wandering*still *brings lesser joy than actually being in the moment. That explains how prayers, meditations, and all those spiritual activities can literally improve your feelings. Because as the research showed, happiness is found in the present.
+
+I think this ‘time-constraint anxiety’ is greatly influenced by the nature of my field. Learning medicine is very arduous and tiresome work. It is because there are so many things to learn, books to read, concepts to understand. I concede medicine can vary in difficulty of learning it (but we can agree neurology is the hardest). But regardless of the difficulty, the accumulation of all that knowledge — every organ system, every clinical branches — is too gargantuan to grasp it all in one lifetime.
+
+No wonder it takes a lot of the time just to learn medicine. Just as I understand the privilege of being a medical student. To have that much spare time to learn the human body. Not many can have that opportunity, you know. And I am not talking about the high tuition or limited seats in college (which is already a privilege itself). I mean the time resource required to be a medical student. Many have to reserve their time to do other things, like doing housework and side hustles. That said, being a medical student doesn’t prevent someone to do those things. In fact, a lot of my incredible college mates can somehow execute them all. Well, I can’t. I don’t have that much energy.
+
+Even if somehow I can cram all my activities into a 24-hour timeframe, it would be so exhausting. I doubt I can function normally the day afterwards. I would be so sleep deprived that my already short attention span would be even shorter. From 5 seconds to 1.
+
+Okay, enough for me to rant about the importance of sleep. I have already done it the other time.
+
+A lot of self-help books that I have read in the last couple of years tend to agree on something. Mindless productivity (when we try to cram all of our activities into our timeframe) is not only futile but also pathological. There are always things to do, work to finish, tasks to complete. In a more practical sense, an employee who somehow can get more things done in less time would be handed more work by their superiors. It is not a good man-management and it should not be like that. But in a more personal sense, those free time I can achieve by doing things more efficiently will become an insidious opportunity to cram more activities.
+
+This hypercompetitive environment surrounding me is not helping either. The free-market economics, combined with ever-powerful corporations, make some kind of power imbalance between shareholder and labor forces. That makes the labor market becomes so saturated. The hypercompetitive environment between person makes every day seems like a race. Time is money, they said, better develop yourself so you can present yourself better than other candidates in job market.
+
+Not going to become obnoxious activist by ranting about ‘the failed system’ or ‘revolution’ or the other gobbledygooks. What I understand is every system has it flaws. For capitalism, it would be the competitive environment that reduces social cohesion, and also stresses the heck out of the people. But my ever pragmatic self would concede that capitalism has its benefit. The way it uses human vice as their factor of growth made the vices not controlled, but predictable.
+
+Socialist or communitarian system becomes too utopic to be actually achieved, perhaps because they undermined or even not considering the human vice at all. That’s why in the mere attempt to practice social left-leaning politics, one can’t help to become more and more authoritarian. In a battle between egalitarianism and social hierarchy, the hierarchy prevails.
+
+After all, I must accept that this is the prevailing system. One got to adapt to it one way or another to at least survive. But my rebel, idealist self don’t want to back down. I want to live the way I think it’s best. To not only thinking about upgrading oneself but also becoming human. You know, spending time with the people you care about, doing things that don’t have any material value whatsoever (you know, like hobbies). It won’t add anything on resumes but I can feel like living, at least.
+
+![](https://cdn-images-1.medium.com/max/800/0*YeD2W-zclxhGz1UX.jpg)
+
+Perhaps this ‘time constraints’ issue that I am having is a great lesson of sacrifice, or in economic term ‘*opportunity cost*’. I realize that we get paid for our work not only by what we are actually doing but also by letting go of what we could have done. Everything comes at a cost. Oprah Winfrey once said “*you can have it all; just not at the same time.*”
+
+I also realized that my struggle of deciding things boils down to my inability to be confident of my choices and face the consequences of my actions.
+
+I thought it is better to dip your toes, to research every choice a little. And then with that information, I weigh in the best decision based on the current situation. That way, I can make the wisest decision.
+
+But life rarely enables me to do so. The information I get is almost always incomplete and I would never have enough time to weigh in. Sometimes you just have to take the leap of faith.
+
+So what separates me between me and my decision is my gut. Is it better to risk it all or just sticking to the status quo? All my life, I tend to stick to the latter. But now it has to change.

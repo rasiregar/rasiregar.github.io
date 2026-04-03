@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Football is dead (or at least dying)"
+date: 2017-08-11 00:00:00 +0700
+---
+
+## Football is dead (or at least dying)
+
+Beberapa waktu sebelum saya menulis ini, Philippe Coutinho, seorang pemain bola untuk Liverpool FC, mengirimkan *transfer request*kepada klubnya. Ia akhirnya mengirimkan*request *itu setelah berulang kali dikaitkan dengan perpindahannya ke Barcelona FC, salah satu lima besar klub sepak bola terbaik di dunia saat ini. Tentunya hal ini memicu kontroversi yang amat besar karena: 1. Ia merupakan pemain terbaik di Liverpool FC, terbukti dengan kiprahnya sebagai gelandang kreatif yang memimpin penyerangan, 2. Ia mengirimkan*transfer request *tersebut**sehari** (ya, sehari) sebelum musim baru Liga Premier Inggris dimulai.
+
+![Philippe Coutinho (masih) bermain untuk Liverpool.](https://cdn-images-1.medium.com/max/800/1*8UnSbAXIARaYLXE2oyOePw.jpeg)
+
+*Philippe Coutinho (masih) bermain untuk Liverpool.*Sebelumnya, memang sudah ada minat, bahkan tawaran fantastis yang dilayangkan oleh Barcelona untuk gelandang liverpool ini. Saga mengenai transfer ini sudah berlangsung sekitar satu bulan lebih. Dua minggu terakhir, kabar ini makin menguat seiring terealisasinya perpindahan Neymar Jr.,*winger *lincah Barcelona yang menjadi salah satu kunci penyerangan mematikan Klub itu: MSN (Messi, Suarez, Neymar), ke PSG. dengan biaya transfer yang tidak main-main: 222 Juta Euro! Jika dirupiahkan, 222 Juta Euro bernilai sama dengan 3.5 triliun Rupiah. Sebagai perbandingan, APBD Makassar tahun 2017 senilai 3.39 triliun Rupiah. Bisa dibayangkan*kan *betapa besar angka itu.*Oiya*, jadinya transfer Neymar ke PSG membuat Barca semakin santer mencari sosok pengganti di lini depannya.
+
+![Perpindahan Neymar ke PSG memecah rekor transfer pemain sepakbola dengan biaya senilai 222 juta Euro.](https://cdn-images-1.medium.com/max/800/1*503wW80awRCwys9Rq6heow.jpeg)
+
+*Perpindahan Neymar ke PSG memecah rekor transfer pemain sepakbola dengan biaya senilai 222 juta Euro.*
+
+*Oke,*kembali ke topik.
+
+Dari sudut pandang etika olahraga profesional, hal yang dilakukan oleh Coutinho ini sungguh tidak etis. Melayangkan permintaan transfer sehari sebelum pertandingan pertama di musim baru, dengan jendela transfer tersisa kurang dari tiga minggu lagi. Saya yakin betul bahwa ia tahu bahwa ia adalah pemain terbaik yang Liverpool punya sekarang. Tetapi, dengan tindakan yang baru ia lakukan, seakan-akan ia berlaga *pilon*dan tidak peduli akan tim yang membawa namanya menjadi sekarang ini. Sungguh apa yang ia lakukan telah menyayat hati para Kopites, sebutan untuk fans Liverpool.
+
+Melihat Philippe Coutinho melakukan hal ini tentu membuat saya murka, secara saya sendiri merupakan fans berat Liverpool. Namun, apa yang ia lakukan bukanlah sesuatu yang diluar kewajaran. Sergio van Dijk, pemain bertahan asal Belanda yang sekarang bermain untuk Southampton FC telah melayangkan*transfer request*kepada timnya karena ia ingin merealisasikan perpindahannya ke Liverpool. Skenario ini tidak jauh berbeda (bahkan sangat mirip) dengan apa yang terjadi dengan Liverpool sekarang karena Van Dijk tanpa diragukan lagi adalah pemain terbaik Southampton.
+
+Tak hanya dia, skenario ini juga terjadi pada Naby Keita. Gelandang muda bertalenta asal Guinea ini sekarang sedang berada dalam konflik dengan timnya, RB Leipzig, karena tidak mau merestui perpindahannya ke: siapa lagi kalau bukan Liverpool. Dan satu lagi apa yang bisa ditebak? Ya, lagi-lagi Keita adalah pemain terbaik timnya.
+
+Dan masih banyak sekali kasus pemain-pemain seperti ini.
+
+Lihat pola yang ingin saya sampaikan? Kalau tidak, maafkan saya karena kurang bisa menyalurkan pesan dengan baik. Maklum, jarang-jarang menulis serius seperti ini.*Hehehe…*
+
+Okay, apa yang bisa kita ambil dari skenario-skenario di atas? Ya, menurut saya telah terjadi pengikisan etika profesionalisme pada atlet sepakbola. Atlet-atlet ini bertingkah layaknya mereka merupakan penyelamat bagi timnya, sehingga mereka bertindak semau mereka tanpa menghiraukan orang-orang lain di sekitarnya. Ingat bahwa sepakbola adalah permainan dengan sebelas orang per tim. Saya yakin betul apabila anda Messi pun, jika sepuluh orang lainnya tidak bisa membantu anda dengan baik, tim anda akan kalah. Ingat pula perkataan dari pelatih legendaris Liverpool:
+
+> “No player is bigger than the team,” Bill Shankly
+
+![Pemain yang memiliki kecintaan sangat besar kepada timnya diiringi dengan pelatih yang begitu berhasrat mengembangkan pemainnya.](https://cdn-images-1.medium.com/max/800/1*cfLx01u_PJVPzL63g3866g.jpeg)
+
+*Pemain yang memiliki kecintaan sangat besar kepada timnya diiringi dengan pelatih yang begitu berhasrat mengembangkan pemainnya.*
+
+Lihatlah pemain-pemain pada foto di atas. Sangat berbeda dengan gaya pemain sepakbola zaman sekarang. Terlebih lagi dalam nilai-nilai yang dianutnya. Zaman dahulu, mereka bermain karena cinta pada timnya. Mereka bermain sebagai tim dan hanya sebagai timlah mereka bisa meraih kemenangan, terbukti dengan torehan-torehan piala yang diraihnya. Berbeda pada zaman sekarang, pemain hanya mementingkan diri sendiri. Mereka masih bermain dalam tim, pun masih kompak, tetapi tujuan akhir dari mereka kembali ke masing-masing pemainnya: untuk mengembangkan karier individunya semaksimal mungkin. Jika dikaitkan dengan kasus Coutinho, sungguh ironi ia melakukan hal itu dalam sebuah tim yang slogannya “*You’ll never walk alone”*, dalam arti bahwa dalam kegelapan sekalipun tak ada pemain yang berjalan sendiri. Tetapi, ia ternyata mau berjalan sendiri — menuju Barcelona. Jika Bill Shankly masih hidup dan mengelola Liverpool sekarang, sudah hampir dapat dipastikan ia akan sontak menampar Coutinho atas perilaku tidak tahu terima kasihnya itu.
+
+Begitu mengecewakan tingkah laku pemain sepak bola masa kini. Berlaku seperti diva dan sebagainya. Hal ini menurut saya berhubungan dengan masalah terkait dalam sepakbola profesional: komersialisasi. Sejak akhir tahun 1980an, Liverpool juga yang pertama memopulerkan pemasangan sponsor pada jerseynya. Sontak hal ini ditiru oleh tim lain, tak lain untuk menambah pemasukan dan sebagainya. Namun, dengan masuknya sponsor dan membesarnya peran sponsor dalam dunia persepakbolaan, perlahan olahraga ini semakin terkesan materialis alias matre.
+
+Kondisi yang sudah menunjukan adanya dekadensi nilai ini ditambah dengan masuknya investor-investor kaya raya yang melihat sepakbola sebagai ladang keuntungan yang sangat menggiurkan. Dimulai dari akuisisi Chelsea F.C. oleh Millhouse LLC. yang dimiliki oleh taipan Rusia, Roman Abramovich. Dilanjutkan dengan megaproyek ‘*Los Galacticos*’ yang dicanangkan oleh Fiorentino Perez, presiden Real Madrid untuk membentuk skuat yang berisikan pemain-pemain terbaik di posisinya. Belum lagi akuisisi Syeikh Mansour bin Zayed al-Nahyan, deputi perdana menteri dari Uni Arab Emirat yang juga pengusaha, pada Manchester City tahun 2008 yang membuat City digelontori ratusan juta pound untuk membeli pemain-pemain terbaik. Tak lupa juga Nasser Al-Khelaifi, seorang pebisnis asal Qatar, yang membeli Paris Saint-Germain dan membuat klub itu menjadi tim yang tak boleh diremehkan di tingkat eropa berkat pemain-pemain kelas dunia yang berhasil diboyongnya.
+
+![](https://cdn-images-1.medium.com/max/400/1*RtsW-IOxLUbu1hOntMxEgQ.jpeg)
+
+![](https://cdn-images-1.medium.com/max/400/1*x2Ou3Jag6-X5aZ-tSheMPA.jpeg)
+
+![Para miliarder menginvasi sepakbola.](https://cdn-images-1.medium.com/max/600/1*zX6T9LKbXhLXUWnCVSTo9g.jpeg)
+
+*Para miliarder menginvasi sepakbola.*Bukan saya sirik karena tim favorit saya tidak dibeking oleh miliarder-miliarder seperti di atas (malah dibeli sama pebisnis amerika yang terkenal pelit yang memopulerkan gaya pencarian pemain ala*Major League Baseball*:*moneyball*), tetapi tidakkah kita prihatin dengan kondisi sepakbola saat ini yang terlalu dikomerisalisasi sehingga nilai-nilai yang dulu dibawakan melalui sepakbola, seperti loyalitas, perjuangan, sportivitas, perlahan menghilang ditutupi oleh kilaunya emas dan menggiurkannya kontrak sponsor?
+
+Jika hal ini dibiarkan begitu saja, bukan tidak mungkin bahwa megaindustri yang kita bisa sebut sepakbola ini suatu saat akan — kolaps. Ya, kolaps. Maksud saya, coba perhatikan perkembangan rekor biaya transfer pemain dari tahun ke tahun:
+
+![](https://cdn-images-1.medium.com/max/800/1*WFX0waUh-YAbszpmamHAHQ.jpeg)
+
+Perkembangan biaya transfer seiring waktu semakin tinggi dalam laju eksponensial. Bukan tidak mungkin suatu saat akan ada pemain senilai 1 miliar Pound. Dan saat itu juga, saya akan antipati sepenuhnya dengan sepakbola. Bayangkan saja, dengan biaya transfer untuk**satu**pemain, setara dengan anggaran untuk sistem jaminan kesehatan Inggris,*National Healthcare System*. Angka-angka fantastis ini semakin menunjukkan kekayaan manusia yang tidak merata. Di satu sisi dunia, ada pemain bola bernilai 222 juta Euro, di belahan dunia yang lain, ada manusia mati kelaparan. Kita begitu asyik tenggelam dalam euforia sepakbola, tidak menyadari bahwa Kapitalisme akut telah tergambar begitu jelasnya. Tidak, saya bukan penganut komunisme atau sebagainya. Saya hanya ingin menyadarkan bahwa tidak sepantasnya seseorang dinilai sebegitu besarnya.
+
+Memang nilai yang fantastis itu bukan salah dari pemain itu sendiri, namun memang mekanisme pasar yang memicu kenaikan yang signifikan pada standar biaya transfer pemain sepakbola. Namun, masalah ini sudah begitu jelas terlihat dan kalau masalah ini tidak bisa diselesaikan oleh pihak yang terkait (re: FIFA, UEFA), tidak hanya olahraga ini tercoreng dan dicibir oleh masyarakat dunia, dunia sepakbola sendiri akan terkena getahnya. Banyak tim sepakbola baru tidak mampu berkompetisi dengan tim-tim seperti ini karena kurang dukungan finansial. Financial Fair Play yang diterapkan UEFA seakan hanya gertak sambal belaka.
+
+*The world of football is one scandal short of being collapsed and wreck into pieces, time to deflate the balloon before it pops.*
+
+Saya sangat mencintai olahraga ini. Sangat menyakitkan bagi saya untuk melihat olahraga ini mati perlahan-lahan.

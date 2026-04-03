@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Flash Writing #1"
+date: 2021-05-05 00:00:00 +0700
+---
+
+## Flash Writing #1
+
+*It’s been a while*.
+
+Why do I almost always start my Medium stories with “it’s been a while”?Perhaps because I could never write consistently on this platform. There’s almost always a thing that holds me back.
+
+
+My habit of writing resembles Bruce Wayne’s decision to become Batman. Bruce chose bats as his symbol because he is terrified of bats. He hoped he could instill a similar fear upon his enemies, while he conquers his own.
+
+The same goes for me. I am really scared of writing. To face a blank page, with the cursor blinking — frustrates me. There is an infinite number of possibilities — of how I deliver my story, how I spread my ideas. But most of the time, my ideas are jumbled like crazy, scattered across my mind. I can only hope the good ideas came when I am thinking of something else. Waiting for ideas to flow like an eager rookie fisherman waiting for his big catch.
+
+My expectation of myself suffocates me. It frightens me with how I feel like always disappointed in my writing. I promised myself that I will go back to writing after I read one more book, or after I complete one more course. I believe after that one thing, I can be confident enough and start writing well.
+
+I realize I have seen this wrong.
+
+Confidence is by acting now. Start writing, even though it may suck (it will). My writing makes no sense sometimes, but that’s a process. Over time, my writing will become slightly better, just slight is enough. Slightly better every day means getting a whole lot better in a month, a year, a decade.
+
+Colson Whitehead doesn’t write a Pulitzer-worthy piece with the first ideas that come to his mind. Writing is a tedious, tedious work of re-reading and editing. I remember one of the lessons I learned from a writing course: the elegance of writing comes in the editing phase. It is when you refine your sentences, making them clearer, more digestible to the reader. The act of refining comes after making the giant steps. The steps that I still put too much expectation on.
+
+So I come to this solution — flash writing. Writing to clear my mind. Writing to hone my skills. No breaks, just words. Doesn’t have to be well written, it just has to be clear. Even If it is not clear enough for you, I don’t think I should be too hard on myself. This is like playing an*etude. *It is not the most enjoyable piece to listen to, but it serves the purpose of improving my technical skills.
+
+I will continue to write this flash writing from now. This is just like a small jog for my mind. Hope I can be a better writer with every story I write.

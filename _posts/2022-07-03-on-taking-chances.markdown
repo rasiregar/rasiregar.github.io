@@ -1,0 +1,64 @@
+---
+layout: post
+title: "On Taking Chances"
+date: 2022-07-03 00:00:00 +0700
+---
+
+## On Taking Chances
+
+![Photo by Robert Stump on Unsplash](https://cdn-images-1.medium.com/max/800/0*UC17PA_5tCQRqXvU)
+
+*Photo by Robert Stump on Unsplash*
+
+I admit, I am a pessimist.
+
+Not that I can’t see the glass being half full, but if you line up all people on earth from the most optimistic to the least, I think I would be at the bottom half of the spectrum.
+
+Even me saying that says a lot about how I think, right?
+
+At least that’s what I see by comparing my judgments to those around me.
+
+Daniel Kahneman said it multiple times in [his work](https://books.google.co.id/books?hl=en&lr=&id=_0H8gwj4a1MC&oi=fnd&pg=PR8&dq=daniel+kahneman&ots=YFffdOW5XH&sig=GMIR6grQHYgCXGauHl8KT32_fG8&redir_esc=y#v=onepage&q=daniel%20kahneman&f=false). In times of uncertainty, people would rather miss out on great rewards than lose things that they already have. This kind of cognitive bias really portrays my actions sometimes. Not that I am proud of it either. I am more frustrated by my own standpoint than being benefited from it.
+
+But at a more [*meta*](https://www.merriam-webster.com/dictionary/meta)* *view, perhaps I was too pessimistic about my pessimism. Pessimism, in a good view, is prudence — to be cautious about one’s actions and the impact they could cause. By being prudent, we can prevent ourselves from delving into problems. Preventing a problem before it is happening (rather than solving it after it shows) proves to be a better way, and more effective. That’s what Shane Parrish trying to teach in his blog [Farnam Street](https://fs.blog/) — gathering mental models to help us make good decisions.
+
+Because my recent work revolves around epidemiology, perhaps I could give an analogy related to it. In diagnostic studies, there are terms called sensitivity and specificity. Sensitivity is the probability of the positive test conveying true results. While the specificity is the probability of a negative test truly being negative.
+
+It is a tricky concept to understand, even I still mistook one for the other. The best way to understand this is through an example.
+
+![Sensitivity and specificity. Source: WIkipedia](https://cdn-images-1.medium.com/max/800/0*DUWrrrDs3FcTLlxC.png)
+
+*Sensitivity and specificity. Source: WIkipedia*Let’s say there are two entrepreneurs: A and B. Both are looking to find business opportunities. The difference is A is sensitive but not specific, whereas B is specific but not sensitive. A who is sensitive would screen almost all the good business opportunities there are in the world. But his overoptimism led him to some opportunities that are bogus, scams, or simply not as promising as they should be. That’s on low specificity.
+
+On the other hand, B is really pessimistic and can tell about almost all of the bad opportunities so they would not waste time or money investing in them. But because of his pessimism, B also misses out on many good opportunities.
+
+So I analogize the optimists as having high sensitivity, whereas the pessimists have high specificity.
+
+In an ideal situation, we should aim for high sensitivity and specificity. I gave an example of a contrasting situation (good sens. with bad spec. vs bad sens. with good spec.) because the quality of a diagnostic tool (or judgment in a general sense) lies in both sensitivity*and *specificity.
+
+In life, I understand a lot of people prioritize sensitivity more than specificity. It is better to screen all the good stuff rather than miss out on them, right?
+
+But that is not always the case. There are situations where assuring that things are not happening is as (if not more) important than assuring things are happening. That example is the HIV test.
+
+## You are HIV Aladeen
+
+HIV/AIDS is an immune disease caused by Human Immunodeficiency Virus (HIV). AIDS is the advanced condition of HIV infection in which the infected immune system become so compromised that they are prone to be sick from microorganisms we (immunocompetent, healthy people) are not getting sick from.
+
+Aside from the chronic nature of the disease, sadly HIV/AIDS is highly stigmatized. Perhaps it is because of the history of the disease. Experts speculate that the initial spread of HIV in the 1980s [was from homosexuals and prostitutes](https://www.science.org/doi/abs/10.1126/science.1079027). It is because the transmission of this virus is from bodily fluid, which can exchange during sexual intercourse. So the stigma aims at vulnerable, disadvantaged people like a sexual minority (LGBTQ+), sexual workers, and person who injects drugs (PWIDs).
+
+This stigma really inhibits the efforts to diagnose, treat, and eventually eliminate the disease. And the diagnosis of HIV infection not only haunts the thought of upcoming chronic illness and a diminished life expectancy but also a convoluted and heartwrenching stigma that threatens a person’s social capital.
+
+So it is a big thing to contract HIV. And when you are diagnosed with it, the tools better be accurate (for the big social and mental costs one must pay). We don’t want to be a Wadiyan citizen who is confused about his HIV status (from the film*The Dictator*).
+
+[The WHO guideline for HIV Diagnosis](https://apps.who.int/iris/handle/10665/179870) dictates that a diagnosis of HIV infection must be made from three tests/assays: A1, A2, and A3. These tests must have a minimum sensitivity of 99% and specificity of 98%. The first assay (A1) must be using the*most sensitive assay available*. The second assay (A2) must comprise a different antigen preparation to avoid false cross-reactivity with the A1 test (*minimize the risk of delivering the same results*). The full algorithm is displayed below.
+
+![Testing strategy for HIV diagnosis (in low prevalence settings). Source: WHO](https://cdn-images-1.medium.com/max/800/1*eglgFF0a80zF6Y3LXkt1_w.png)
+
+*Testing strategy for HIV diagnosis (in low prevalence settings). Source: WHO*
+
+
+What is this all got to do with confidence?
+
+Perhaps my example is a little bit too far-fetched from our regular life. HIV test showed the importance of specificity (and combined with good sensitivity to deliver a secure judgment). What I am trying to say is when the stakes are high, we opt for the least costs, rather than the biggest gains (and for good reason). In certain cases, the pessimist is wiser.
+
+I read someone wrote, “never bet things that makes you out of the game if you lose”. To acquire the most gain is our objective, but to be in the game for the long run is another objective itself. So I think it is wise to take many chances in life (much more many than I think). And I realize the probability of failure will inevitably rise (because of the higher denominator). But the potential gain will also rise. Just remember not to take chances that can put us out of the game if things go south.

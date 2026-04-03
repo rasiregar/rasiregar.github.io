@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Empathy in the Digital Age"
+date: 2020-04-18 00:00:00 +0700
+---
+
+## Empathy in the Digital Age
+
+![Photo by Marcel Strauß on Unsplash](https://cdn-images-1.medium.com/max/800/0*qRGdJYp7vGqnnnPR)
+
+*Photo by Marcel Strauß on Unsplash*
+
+I have been pondering this particular issue for the last couple of months, filling the little space in my head while I am doing my daily activities. I conscientiously observed what I am doing, what others are doing, what we do on social media. Connecting what I have learned from my recent readings and experience, I simply cannot stop thinking about the growing correlation between all of these phenomena. More importantly, there can’t be a possibly better time to talk about this.
+
+First, newsflash for you — who happened to read this after you woke up from a four-month comma and you opened your medium and stumble into my story. The world is in a global health crisis. Sars-cov-2 infection (more commonly termed Coronavirus) has been declared as a pandemic by the World Health Organization. Pandemic is usually declared when an outbreak (irregular high prevalence of an infectious disease in certain areas and periods of time) has involved multiple continents and regions. Based on [the latest data](https://www.worldometers.info/coronavirus/), there have been more than 2.2 million cases reported with almost 150.000 deaths. Sadly, the number is far from final and it is still growing — very rapidly.
+
+The frightening rate of novel cases made governments across countries took various dramatic approaches. Few countries have imposed forced quarantines at the epicenter of the infection, intending to suppress the transmission of the virus. In my country (Indonesia), a large scale social restriction has been enforced at a few key cities with high rate of novel Sars-cov-2 cases, including the special capital region of Jakarta, where I currently live. This policy made the inhabitants of these particular cities have to avoid masses (by masses, my government limits that to a minimum of four people) outside, and the law enforcement is not hesitant to give sanctions or even a more stern approach to the people who violate the regulation.
+
+Prohibition of outdoor activities involving masses made companies and institutions had to make adjustments with the work environment and method in order to keep the business running. Work from home is becoming a norm and video teleconferencing is now becoming more frequently used. Many of the old-fashioned top-level executives who prior to this pandemic refused or reluctant to use this kind of remote working methods are now left with no choice but to adapt and start learning to optimize the current technology to coordinate tasks and schedule meetings. Schools and universities are also the same: video conferencing is starting to gain attention to keep the lectures and discussions going while the self-quarantine period is imposed.
+
+Our limitations to actually meet with other people besides our family made us using social media much more frequently than before. More than that, [The New York Times article](https://www.nytimes.com/interactive/2020/04/07/technology/coronavirus-internet-use.html?auth=login-google1tap&login=google1tap) has brilliantly analyzed the shift of the way we use the internet, changing from using phones to using laptops and computers. Adding to that, Statista also has conducted a survey to a number of people in March 2020 and it is concluded that there is a significant boost in [all social media activities worldwide.](https://www.statista.com/statistics/1106766/media-consumption-growth-coronavirus-worldwide-by-country/)
+
+It is an expected phenomenon. Certainly, we have tried various activities to kill our boredom and loneliness while we are stuck at home. Surfing mindlessly on the internet and social media seem like a gateway to instant gratification and dopamine boost, it is a [well-proven hypothesis](http://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/). Yet, what concerns me all this time (even before this outbreak ensues) is social media can be a terrifying place. It is the place where people go argue, calling out at each other. I cannot find a decent and empathetic conversation when I use social media. It feels like people go to social media to showcase their egos.
+
+The negativity bias affecting our worldview is not better. [The tendency for us to be more pessimistic in proportion with how much we read the news](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli) is also concerning.
+
+Hence, it becomes my main question: why can’t people behave like decent beings in social media? Why we tend to become more inhospitable and negative towards each other when we are using social media? Where all the empathy and decency go?
+
+
+## Cyber Disinhibition
+
+Daniel Goleman, a psychologist who is also the author of famous popular psychology book [Emotional Intelligence](https://www.goodreads.com/book/show/26329.Emotional_Intelligence?ac=1&from_search=true&qid=IfNKSGBLdy&rank=2)) also had the same concern towards this occurrence. From that, he popularizes the term cyber-disinhibition. Itis the process of decreasing inhibition from impulses of actions because of the nature of the internet.
+
+The mechanism of cyber-disinhibition may lie in the abstract constitution of the internet. In normal, real-life interaction, our prefrontal cortex (a part of our brain) perpetually monitor our actions and our counterparts’. This circuitry makes sure that the interaction and the response went smoothly. The key underlying mechanism of this is by the inhibition of the response that would be otherwise rude and inconsiderate when uttered.
+
+![Prefrontal Cortex (credits to Wikipedia)](https://cdn-images-1.medium.com/max/800/0*CnLOe0LEepQqC6r5.png)
+
+*Prefrontal Cortex (credits to Wikipedia)*
+
+In a social media interaction, immediate feedback from counterparts cannot be facilitated. Most social media platforms (aside from video or voice calls) cannot give immediate feedback between counterparts. What happens next is the failure of the prefrontal cortex to inhibit the impulse of our minds. Consequently, we end up uttering messages that might not be too empathetic or thoughtful.
+
+One of the factors that may aggravate these occurrences is anonymity. Anonymity is a powerful feature of the internet, also one of the worst offenders that allow many cyber crimes and misbehavior to flourish on this platform. Social media can increase the likelihood of the users having cyber disinhibition because of the opportunity to separate their actions online from their true identity, as reported by John Suler [in his famous paper](https://www.liebertpub.com/doi/abs/10.1089/1094931041291295). So a little tip for handling the social media backlash: if you happen to meet an anonymous accounts flaming to you, just ignore them. They cannot be accounted for their action so why bother.
+
+Luckily, this occurrence is state-specific. That means its likelihood of social media users to experience this varies from the overall mood and emotional states. Cyber-disinhibition is more likely to happen to people with strong negative feelings or simply in a bad mood. That’s why maybe even us sometimes experience this too after a long stressful day. One of those days, you would have a glance on social media and your temper broke off and feel the irresistible need of giving cruel remarks.
+
+There is a particular scene from one of my favorite TV series that accurately depicts a case of neural disinhibition. This case is not specifically caused by the internet or social media (in this episode, it is caused by a tumor), but the effects are similar or even worse. Take a look:
+
+Now apply that kind of straightforwardness to social media setting, kinda like a typical day on twitter, eh?
+
+## The 7–38–55 rule
+
+Do you ever misinterpret someone’s message or misinterpreted by someone in instant messaging? Well, those occurrences are more likely to happen on social media than in real life because communicating through texts is ridiculously not representative. It does give our real message enough justice. In fact, it may only comprise 7% of the total message that we really want to convey, based on the 7–38–55 rule.
+
+The 7–38–55 rule is taken from one of the most popular negotiation books titled [Never Split The Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference?ac=1&from_search=true&qid=8jgvkEyIYe&rank=1), written by a prominent CIA crisis negotiator Chris Voss. The rule is inferred from a famous study from [UCLA psychology professor Albert Mehrabian about what makes us like or dislike someone](https://books.google.co.id/books?hl=en&lr=&id=Xt-YALu9CGwC&oi=fnd&pg=PR7&dq=mehrabian&ots=5zOdNi8ijs&sig=v8gFEHZu0s64VzmcWFF-g3CTvCQ&redir_esc=y#v=onepage&q&f=false). The formulation is this: approximately, only 7 percent of our message is conveyed through our words. That is ridiculously low compared to the 37 percent that is from our intonation and the rest 55% came from our facial expression and body language.
+
+In face to face interaction: nonverbal communication far outweighs verbal communication in terms of importance. That’s why Voss always recommends negotiating directly meeting face to face rather by phone or by text messages. And I think that this should not be limited only to negotiation scenarios. This concept can also be inferred in everyday communication. There is a lot of things going on behind the intended spoken words, you would miss so much message just leaving your intended message by chat.
+
+## Great Minds Think Alike
+
+Now we are focusing more on the content we frequently see on social media. For the most part, we can agree that what we see on the internet or social media is far from objective. It turns out, what we see is deeply affected by our activity on the internet, especially by our search history, activities pattern, and who we are following on social media.
+
+![We see things in social media with our own rose-tint glasses (or maroon, navy blue, whatever you like). credits: spreadprivacy.com](https://cdn-images-1.medium.com/max/800/1*RJpIWGCzxFtjVmg5Kx17tw.png)
+
+*We see things in social media with our own rose-tint glasses (or maroon, navy blue, whatever you like). credits: spreadprivacy.com*
+
+This phenomenon is termed as the filter bubble, as Eli Pariser popularizes it [in the same-titled book](https://www.goodreads.com/book/show/10596103-the-filter-bubble?from_search=true&from_srp=true&qid=YdJrfXJAcT&rank=1). But then, the main question would be: how this filter bubble affects our behavior on social media and how it worsens our ability to empathize on social media?
+
+Filter bubble is the result of the website algorithm that adjust the information given to the user based on their behavior on the internet. This results in us (internet users) tend to see what favors us on the internet. We also tend to see person with similar values and viewpoints giving their opinions on social media. This algorithm, while giving ease in using social media (by juxtaposing people with similar interests), is also dangerous because it gives us what it is called intellectual isolation.
+
+Our standpoint and values are so augmented by the surrounding users and contents with irregular similarities that we fail to be aware and understand opposing and other various standpoints. This pattern, if it is not taken seriously, will cultivate intolerance, fanaticism to a certain dogma, and skewed perception towards reality over time. This definitely will erode empathy and appreciation towards diversity. No wonder political polarization is such a common occurrences, aggravated by social media.
+
+We have discussed enough about what may cause the rather unfriendly nature of people on social media. Now, we turn our heads to the main motor of high-quality social interaction: that is empathy.
+
+## What is empathy anyway?
+
+E**mpathy**: we use this word when we want to make a point about understanding people. We say that people are empathetic when they know what to do to people, simply put. We use this word pretty frequently, but do we actually know what that word means?
+
+A little bit of background story: in my college, there is a mandatory course that specifically teaches the students about empathy. Empathy is a major issue in medicine. Without empathy, physicians cannot gain trust and give proper diagnosis and treatment for the patient. My faculty put much importance in developing empathy for soon-to-be doctors, but until now I still struggle to understand empathy.
+
+There is a lot of definitions of Empathy you can find on the internet. I’m just going to throw one of the more medically-oriented definition:
+
+> Empathy is the ability and effort to understand, feel, appreciate, and more importantly placing ourselves in the place of others with certain identity. — [Buckman (1984)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1441225/)
+
+How we actually practice empathy? Brene Brown [in her book](https://www.goodreads.com/book/show/13588356-daring-greatly?ac=1&from_search=true&qid=wzG8nJvU1U&rank=1) has put a very powerful perspective of practicing empathy.
+
+> Empathy is a strange and powerful thing. There is no script. There is no right way or wrong way to do it. It’s simply listening, holding space, withholding judgement, emotionally connectiong, and communicating that incredibly healing message of**“You’re not alone.” — Brown in Daring Greatly (2012)**
+
+This concept of empathy almost feels like an enlightenment for me when I first read it. It reduces the complicated and intricated part of the empathy into one integrated approach: active listening. We drop our shields, our egos, we put enormous attention to our counterpart, his body language, intonation, facial expression, and at the same time, we are trying to comprehend the point of our counterparts’ spoken words. From doing this, we can actually build a little spark, a spark that induces trust and connection.
+
+I put a lot of emphasis on empathy in this story, I even put it on the title. However, if you had expected from the beginning that there will be a deep, extensive report about empathy, I am afraid that you will be disappointed. There are two reasons why I don’t explain a broad concept of empathy. First, I don’t think I have the qualifications to do that. Second, I don’t think empathy is something to be explained for us to understand. It is something to be felt, something to be internalized. Deep down, most of us understand that feeling of warmth when someone just ‘gets us’. It is the result of them paying attention to our whole body that exudes information about us more than what we actually say.
+
+Empathy is being silent. Empathy is paying attention. Sadly, there is yet a technology that can transmit our message as good as good ol’ direct conversation.
+
+## Conclusion
+
+I am sure we have heard our older relatives condemn the younger generations for the lack of empathy and social skills at least once. Whether you like it or not, maybe the accusation rings a bit of truth. It is understood that there are a lot of factors contributing to this. Back in their days, the means of communication were so limited that they made the best use of direct conversation to do everyday things. Now we are privilege with numerous means of communication, we are shifting to social media as the way of seeking social interaction. As we grew up with this technology already in hand, I am afraid that we tend to take underestimate the power of face-to-face interaction.
+
+This pandemic made us learn a lot of lessons. Of all the lessons regarding the global health and the environment, one of the lesser ones is to optimize mobile communication to do everyday tasks. Hopefully, this ‘forced adaptation’ will leave us more technologically adept to harness this means of communication and improve the quality of our work and life in general.
+
+This pandemic has also shifted the way of communication, favoring mobile communication for the reason that is obvious. The availability of video teleconferencing and ever-updating social media enables us to keep up to date with the surroundings and worldwide news. We shall use these technology with utmost discretion to make the best use of it. Hope this pandemic give us a very great lesson not to take the richness of direct interaction for granted.
+
+Notwithstanding the ability of social media and mobile communication to transmit information instantly, I hope we also realize and cherish the power of direct, face-to-face interaction that cannot yet be substituted with any other means. I am sure I am not the only ones who long meeting my friends and relative directly. I also can bet that all the cafes and restaurants will be fully booked for days once this social prohibition is no longer in effect. We all social beings after all.
+
+Until that day comes, we should probably stay at home and enjoy our coffee.
