@@ -3,7 +3,7 @@ title: "Contact"
 page-layout: article
 ---
 
-<form action="https://formspree.io/f/REPLACE_WITH_YOUR_ID" method="POST" class="contact-form">
+<form action="https://formspree.io/f/xpqoozvk" method="POST" class="contact-form">
 
 <div class="mb-3">
   <label for="name" class="form-label">Name</label>
