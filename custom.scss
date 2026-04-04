@@ -71,3 +71,58 @@ img {
 .about-contents h2 {
   font-size: 1.4rem;
 }
+
+.about-image img {
+  object-fit: cover;
+}
+
+/* Collapsible CV sections */
+details {
+  border: 1px solid #ebebeb;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.75rem;
+}
+
+details[open] {
+  border-color: $primary;
+}
+
+details summary {
+  cursor: pointer;
+  list-style: none;
+  font-size: 0.95rem;
+  padding: 0.1rem 0;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▸ ";
+  color: $primary;
+  font-size: 0.8rem;
+}
+
+details[open] summary::before {
+  content: "▾ ";
+}
+
+details > div {
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #ebebeb;
+  font-size: 0.925rem;
+}
+
+/* Footer icons */
+.nav-footer-left a {
+  color: #6e6e73;
+  margin-right: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.nav-footer-left a:hover {
+  color: $primary;
+}

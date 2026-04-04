@@ -1,0 +1,16 @@
+---
+title: "New Blog"
+author: Risyad Abiyyu Siregar
+date: 2026-04-04
+description: ""
+---
+
+Decided to create a whole new site using Github Pages. I got this inspiration when attending a Statistics Training held by my employer and they used this fairly simple website but it did the work perfectly.
+
+I have been using Medium for years to write my thoughts and while I thought it had its own benefits, I find the layouting and UI very limiting. There is no wiggle room to tinker and be creative. They can boasts the community they provide in the site (almost like a social media for writers), but it is so easy to be filled with fraud masking themselves as writers writing punchy headlines with generic (or even worse, AI-generated) content to increase readerships. Every good writers know that to generate thoughts in coherent manners take time.
+
+Since I have just subscribed a month of Claude Pro, why do not I use it to vibe-code until oblivion?
+
+This also reminds me on how strayed off-course I am currently in my "supposed" career trajectory because why would a doctor build their own website? I joked to myself that in another (or more) parallel universe I am inserting an endotracheal tube to a motor vehicle collision victims in a packed ER, perhaps in a residency program or whatever. But here I am currently vibe coding, building apps and websites, doing epidemiology and public health stuffs. And funnily enough I enjoy the thrill of learning and doing new things. I think that to learn a bit about the world everyday is what makes life meaningful.
+
+And so by the way, enjoy the migrated content of my medium writings in this site. Many formatting problems I acknowledged but I will work to fix it over time. Hope this new domain somehow reignite my motivation to share my thoughts (though doubt anyone would read it, anyway.)

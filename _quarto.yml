@@ -3,17 +3,24 @@ project:
   output-dir: _site
 
 website:
-  title: "Analisis"
+  title: "Risyad Abiyyu Siregar"
   navbar:
     background: light
     foreground: dark
     left:
+      - href: thoughts.qmd
+        text: Thoughts
       - href: index.qmd
-        text: Blog
-      - href: about.qmd
         text: About
   page-footer:
-    center: "Analisis &middot; Risyad Abiyyu Siregar"
+    left:
+      - icon: envelope
+        href: "mailto:abiyyusiregar@gmail.com"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/abiyyusiregar/"
+      - icon: github
+        href: "https://github.com/rasiregar"
+    center: "Risyad Abiyyu Siregar &middot; 2026 &copy; All rights reserved."
     background: light
 
 format:

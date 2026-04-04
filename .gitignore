@@ -8,3 +8,9 @@ convert_medium.py
 .claude/
 .quarto/
 *_files/
+/*.html
+/*-listing.json
+"Risyad Abiyyu Siregar_CV.docx"
+
+/.quarto/
+**/*.quarto_ipynb
