@@ -6,3 +6,5 @@ vendor
 medium/
 convert_medium.py
 .claude/
+.quarto/
+*_files/

@@ -1,0 +1,89 @@
+---
+title: "The most widely used psychoactive substance in the world"
+author: Risyad Abiyyu Siregar
+date: 2022-07-17
+---
+
+## The most widely used psychoactive substance in the world
+
+The substance is widely distributed in the underground scene. It is consumed orally after the dealer put high heat on the substance. The effect varies between people. Some experience tachycardia and others feel a much-enhanced attention span. Unfortunately, the drug is surprisingly legal. The government seems to be unaware of the societal cost this drug causes.
+
+![](https://cdn-images-1.medium.com/max/800/0*04lzverA9quUclWz.png)
+
+Can you guess what drug I am talking about?
+
+Yes, it is**caffeine **— the main component of coffee. Caffeine*is *the most popular psychoactive substance on the planet, [with more than 80% of the world population ingesting ingesting it daily](https://pubmed.ncbi.nlm.nih.gov/10049999/). (even more than cigarettes and marijuana).
+
+![Photo by Karl Fredrickson on Unsplash](https://cdn-images-1.medium.com/max/800/0*K7T2mgniSfQrK2dk)
+
+*Photo by Karl Fredrickson on Unsplash*
+
+Caffeine is widely associated with coffee. No wonder, [more than 75% of caffeine consumed worldwide is from coffee](https://www.annualreviews.org/doi/10.1146/annurev-food-041715-033243?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed). But many other food products contain caffeine. Say tea (they contain caffeine too), chocolate, energy drinks (including the one that gives you wings), etc. But for the sake of simplicity, from now on I will use caffeine and coffee interchangeably.
+
+![Products containing caffeine. Source Meija et al.](https://cdn-images-1.medium.com/max/800/1*y3kpXiQCbu3d-uyLTB7wJw.png)
+
+*Products containing caffeine. Source Meija et al.*On a more personal note, I love coffee. I drink 2–3 cups of coffee every day. The habit started 3 years ago when I was so exhausted from all the medical college assignments. I figured I needed an extra boost of energy, so I tried to drink coffee. At first, I only drank instant coffee, which did its job quite fine. But then I tried to buy better ground coffee from the supermarket, which yield better taste than I thought. I also explored more and more about coffee. Nowadays, I drink manual drip coffee I grind and brew myself before I go out every morning.
+
+However, does caffeine has similar adverse effects to that two substance?
+
+Well, the short answer is no. Caffeine does not have direct causality with lung cancer (which [cigarettes have](https://doi.org/10.1093/jnci/91.14.1194)). It also is not [linked with long-term memory loss](https://pubmed.ncbi.nlm.nih.gov/32009043/) and psychosis-like marijuana (although to be fair, it is still debatable). The safety of caffeine has been fiercely debated for the last 100 years. But before we delve into it, let’s now the basic chemistry of caffeine.
+
+## Properties of caffeine
+
+Caffeine (1,3,7-trimethylxanthine) is derivative of alkaloid base Xanthine. Other xanthine derivative acts as a drug that dilates the airway (aminophylline is used to treat asthma attacks and COPD). Caffeine, like other xanthine derivates, has a similar structure to adenosine.
+
+Adenosine is a chemical compound that has various uses in our body, one of them is to regulate and [promote sleepiness](https://link.springer.com/chapter/10.1007/164_2017_36) (the other is used to treat arrhythmia). Because the structure is similar, caffeine can stick with adenosine receptors in our body as fit as adenosine itself. Thus, caffeine temporarily substitutes the adenosine, but without the sleep-inducing effect of adenosine.
+
+That is basically the mechanism of action of caffeine. That’s why we get less sleepy when we drink coffee.
+
+After we drink coffee, the caffeine is rapidly absorbed in the small intestine and will already be in our circulation after roughly half an hour (that’s the average time the caffeine starts to kick in). It is there for about 4–5 hours and then metabolized in the liver (transforming the compound into a less effective compound) before it is eliminated from the body (through the urine and feces).
+
+There is variability in the effectiveness of caffeine, as we may observe from our own experiences. We see some of our friends do not feel the effects of coffee after drinking a full glass, while some others couldn’t sleep all night after drinking a sip. It is actually can be explained by genetics. There is a particular gene that is linked with caffeine metabolism (CYP1A2 to be exact). [There is a variation of this gene (called single nucleotide polymorphisms or SNP) in the world population](https://pharmrev.aspetjournals.org/content/70/2/384.long), so there are people who metabolize caffeine quickly (called fast metabolizers). Caffeine does not circulate long in the body in this type of person. Vice versa, slow metabolizers experience more long-lasting effects of caffeine.
+
+“[Sola dosis facit venenum](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)” is the paradigm of toxicology. It means “only the dose makes the poison”. What can be inferred from this aphorism is basically anything in this world is toxic (even water and air). It all comes to how much we consume it.
+
+It also applies to caffeine. [The safe limit for caffeine for healthy adults is**400–450 mg/day**.](https://www.tandfonline.com/doi/abs/10.1080/10408390903586412?journalCode=bfsn20) It is approximately 4 to 6 cups, with one cup being 240 mL of regular black coffee. If you drink other types of coffee (or drinks), match it yourself with the table below.
+
+![Caffeine content chart. Source: Nieber.](https://cdn-images-1.medium.com/max/800/1*Ans_UCP5XmKEuVaDeH28mA.png)
+
+*Caffeine content chart. Source: Nieber.*Please note that the real caffeine content in your beverage can vary depending on many things. For coffee drinks, the caffeine content can be determined by the types of beans (arabica or robusta), brewing method (espresso, drip, french press, percolation, etc), or*even the temperature of the water*. [Here is the original paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228209/) if you are interested in reading more, it is very fascinating. For other food products, it comes to how they prepare it.
+
+Drinking above the safe limit could be harmful to health. Drinking too much caffeine in a short amount of time can induce anxiety, restlessness, nervousness, insomnia, and agitations. The dose can vary according to how fast your body metabolizes the caffeine, as I have mentioned above. So it is recommended to be aware of how much caffeine we are ingesting and how our body reacts to it.
+
+In the previous paragraphs, I brought up the fact that the types of coffee beans can determine caffeine content. It is wholly true, and for a while, I am going to explain a little about the types of coffee beans.
+
+Generally, there are two types of coffee beans: arabica and robusta. They come from different plants. Arabica beans come from*coffea arabica *plant. It is believed to be the first coffee to be cultivated. Because it is the original lineage, the plant is harder to grow and cultivate. You have to plant it at a certain altitude. They are also more prone to be infected with plant diseases. The taste of arabica brew varies depending on the crop, but mainly has sweet hints with acidic and fruity taste. The richness of its flavour makes arabica beans more prized than the other beans (robusta) and more commonly used for original coffee preparation without any mixer.
+
+Robusta, on the other hand, comes from the word robust, which means versatile and strong. The robusta beans come from*Coffea canephora*plants, which are easier to cultivate and less prone to disease. The brew from these beans are more bitter, less fruity, and*contains more caffeine than arabica beans*([1.4 times to be exact](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8228209/)). Because it is less delicious to be consumed for its own sake, robusta beans are more commonly processed for instant coffee or mixed with milk (like those*kopi susu from *“Memory coffee” or “Soul promise”, if you will). The mixer makes the taste more bearable.
+
+NB: If you are having palpitation after drinking a glass of*es kopi susu*, it might be because the beans they use contain*more *caffeine than other coffee preparations (that use arabica beans).
+
+![Arabica and robusta beans.](https://cdn-images-1.medium.com/max/800/0*L8OqxnJGiRWejIyB.jpg)
+
+*Arabica and robusta beans.*## Coffee and Health
+
+Well now on to the main topic:*is drinking coffee bad for you*? Well drinking coffee itself is harmless. Drinking a cup or two of coffee will not kill you. Nor if you do it 2 days (or 7) in a row.
+
+But how about 5 years, 10 years, 30 years? Is the habit of drinking coffee good for you? It is hard to resist the temptation to simplify it by saying ‘yes’ or ‘no’. But I know it is not that simple.
+
+The subject has been a fierce debate for a long time, and I don’t want to draw a conclusion so early (otherwise any nutritionist reading this will whack me with a stick). What makes it hard to determine the effects of coffee-drinking habits is that there are so many other variables that interfere with the outcomes (called confounding).
+
+Say that a study found that coffee-drinking habit is associated with a higher risk of cancer. But we figured that people usually drink coffee alongside smoking cigarettes (which may be the cause of cancer). Or another study reported decreased attention on regular coffee drinkers. It came into the realization that the subjects are shift workers who are so sleep-deprived that not even caffeine can prevent their sleepiness.
+
+But even with all the limitations, there is an abundance of evidence regarding the potential health benefits of coffee. Coffee is believed to have protective effects on Central Nervous System (CNS), based on its stimulant properties. Several studies have shown a decreased risk of [dementia](https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1468-1331.2002.00421.x),[Parkinson’s disease](http://www.ncbi.nlm.nih.gov/pubmed/27563362), [migraines](https://pubmed.ncbi.nlm.nih.gov/26677204/), and [depression](https://pubmed.ncbi.nlm.nih.gov/26518745/). It [also improves cognitive performance](https://pubmed.ncbi.nlm.nih.gov/27612937/)(attention, response time) if consumed at a regular dose. On the liver, caffeine is associated with a lower risk of nonalcoholic fatty liver disease (NAFLD), [cirrhosis](https://www.sciencedirect.com/science/article/abs/pii/S1047279701003040?via%3Dihub), and [liver cancer](https://academic.oup.com/jnci/article/97/4/293/2544104). More of the health effects of caffeine are displayed in the figure below.
+
+![Health effects of caffeine. Source: van Dam et al.](https://cdn-images-1.medium.com/max/800/1*0AshM5zymm32iDdDxpL-1A.png)
+
+*Health effects of caffeine. Source: van Dam et al.*
+
+## Take home message
+
+Caffeine is a stimulant that can have health benefits (increased wakefulness, lower risk of dementia, etc) if consumed in regular amounts (no more than 5 cups a day). However, people’s bodies metabolize caffeine at different rates, so it is important to be aware of its effect of it on our bodies and know when to stop consuming it for a while. More important thing: caffeine cannot replace sleep. Your sleep deprivation will catch you eventually, resulting in prolonged fatigue even after consuming caffeine products. I have written an article about the importance of sleep. You might want to read it (it is in Indonesian).
+Sleep is for the strongProduktivitas bertumpu pada tidur cukup.analisis.medium.com
+Lastly, coffee contains a psychoactive compound. Hence, if you have certain health conditions, you always need to consult your coffee-drinking habit with your doctor. Certain medications (for example antibiotics, bronchodilators, or antidepressants) can increase caffeine’s half-life because they share the same liver enzyme for its metabolism. It can cause the caffeine effects last longer than they should have.
+
+Other than that, cheers :)
+
+![Photo by Clay Banks on Unsplash](https://cdn-images-1.medium.com/max/800/0*5R7aaHqEjR-pt3jo)
+
+*Photo by Clay Banks on Unsplash*

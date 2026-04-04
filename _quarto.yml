@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Analisis"
+  navbar:
+    background: light
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+  page-footer:
+    center: "Analisis &middot; Risyad Abiyyu Siregar"
+    background: light
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    toc: false
+    link-external-newwindow: true
+    smooth-scroll: true
