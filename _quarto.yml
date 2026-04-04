@@ -33,9 +33,3 @@ format:
     toc: false
     link-external-newwindow: true
     smooth-scroll: true
-    comments:
-      utterances:
-        repo: rasiregar/rasiregar.github.io
-        issue-term: pathname
-        theme: github-light
-        label: comments

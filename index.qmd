@@ -11,13 +11,7 @@ page-layout: article
 
 ## Risyad Abiyyu Siregar {.about-name}
 
-**dr., MPH, DIC**
-
 Jakarta, Indonesia
-
-To live a dignified life. This has been my life motto for so long. I am on a mission to achieve that vision, for me and for everyone around.
-
-Medical doctor and global health professional with experience spanning clinical medicine, research, and international health policy.
 
 <div class="about-links">
 <a href="mailto:abiyyusiregar@gmail.com" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope"></i> Email</a>
@@ -28,6 +22,12 @@ Medical doctor and global health professional with experience spanning clinical 
 :::
 
 ::: {.g-col-12 .g-col-md-8 #about-main}
+
+To live a dignified life. This has been my life motto for so long. I am on a mission to achieve that vision, for me and for everyone around.
+
+Medical doctor and global health professional with experience spanning clinical medicine, research, and international health policy. Experienced in synthesising complex scientific evidence into clear policy-relevant insights for international health programmes, technical advisory processes, and decision-makers.
+
+---
 
 <details>
 <summary>**Education**</summary>

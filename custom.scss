@@ -70,6 +70,25 @@ img {
 /* About page — two-column grid */
 #about-sidebar {
   padding-right: 2rem;
+  border-right: 1px solid #ebebeb;
+}
+
+#about-main {
+  padding-left: 2rem;
+  padding-top: 0.1rem;
+}
+
+@media (max-width: 767px) {
+  #about-sidebar {
+    border-right: none;
+    border-bottom: 1px solid #ebebeb;
+    padding-right: 0;
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  #about-main {
+    padding-left: 0;
+  }
 }
 
 .about-photo {
@@ -81,12 +100,11 @@ img {
   display: block;
 }
 
-.about-photo + h2,
 #about-sidebar h2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 700;
   margin-top: 0;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
   letter-spacing: -0.02em;
 }
 
@@ -99,10 +117,6 @@ img {
 
 .about-links .btn {
   font-size: 0.8rem;
-}
-
-#about-main {
-  padding-top: 0.25rem;
 }
 
 /* Contact form */
