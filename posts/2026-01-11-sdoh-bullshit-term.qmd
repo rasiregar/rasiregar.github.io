@@ -2,7 +2,7 @@
 title: "“Social Determinants of Health” is a bullshit term"
 author: Risyad Abiyyu Siregar
 date: 2026-01-11
-categories: health society reflections
+categories: [health, society, reflections]
 ---
 Let us begin the 2026 with a rant.
 
