@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Risyad Abiyyu Siregar"
+  google-analytics: "G-2BCRMN1T6G"
   navbar:
     background: light
     foreground: dark
