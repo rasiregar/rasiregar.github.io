@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme:
-      - flatly
+      - litera
       - custom.scss
     toc: false
     link-external-newwindow: true
