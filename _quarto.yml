@@ -12,6 +12,8 @@ website:
         text: Thoughts
       - href: index.qmd
         text: About
+      - href: contact.qmd
+        text: Contact
   page-footer:
     left:
       - icon: envelope
@@ -31,3 +33,9 @@ format:
     toc: false
     link-external-newwindow: true
     smooth-scroll: true
+    comments:
+      utterances:
+        repo: rasiregar/rasiregar.github.io
+        issue-term: pathname
+        theme: github-light
+        label: comments

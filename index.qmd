@@ -1,171 +1,107 @@
 ---
-title: "Risyad Abiyyu Siregar"
-subtitle: "dr., MPH, DIC · Medical Doctor & Global Health Professional"
-about:
-  template: trestles
-  image: assets/images/about-profile.JPEG
-  image-shape: round
-  links:
-    - icon: envelope
-      text: Email
-      href: "mailto:abiyyusiregar@gmail.com"
-    - icon: linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/abiyyusiregar/"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/rasiregar"
+title: ""
+page-layout: article
 ---
+
+::: {.grid .about-grid}
+
+::: {.g-col-12 .g-col-md-4 #about-sidebar}
+
+![](assets/images/about-profile.JPEG){.about-photo}
+
+## Risyad Abiyyu Siregar {.about-name}
+
+**dr., MPH, DIC**
+
+Jakarta, Indonesia
 
 To live a dignified life. This has been my life motto for so long. I am on a mission to achieve that vision, for me and for everyone around.
 
-Medical doctor and global health professional with experience spanning clinical medicine, research, and international health policy. Experienced in synthesising complex scientific evidence into clear policy-relevant insights for international health programmes, technical advisory processes, and decision-makers.
+Medical doctor and global health professional with experience spanning clinical medicine, research, and international health policy.
 
----
+<div class="about-links">
+<a href="mailto:abiyyusiregar@gmail.com" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope"></i> Email</a>
+<a href="https://www.linkedin.com/in/abiyyusiregar/" class="btn btn-outline-secondary btn-sm"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<a href="https://github.com/rasiregar" class="btn btn-outline-secondary btn-sm"><i class="bi bi-github"></i> GitHub</a>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-8 #about-main}
 
 <details>
 <summary>**Education**</summary>
-
 <div>
 
-**Imperial College London** · London, United Kingdom
+**Imperial College London**
 
-*Master of Public Health (MPH)* · September 2023 – September 2024
+*Master of Public Health (MPH)*
 
-- Fully funded by the Indonesia Endowment Fund for Education (LPDP) scholarship
-- Specialisation: Global Health
-- Dissertation: *Global Economic Cost of Malaria: A Systematic Review and Quantitative Analysis of Available Evidence*
-- Grade: **Distinction** (74.25/100)
-- Awards: Faculty of Medicine Dean's Prize for the Highest Overall Performance (MPH Cohort 23/24); Joint Best Dissertation for the Master of Public Health Course Award
+Distinction · LPDP Scholar · Faculty of Medicine Dean's Prize · Joint Best Dissertation Award
 
-**Universitas Indonesia** · Jakarta, Indonesia
+---
 
-*Doctor of Medicine (dr.)* · August 2016 – April 2022
+**Universitas Indonesia**
 
-- Thesis: *Sensitivity profile of Malassezia spp. towards fluconazole and miconazole*
-- Grade: **Cum laude** (3.61/4)
+*Doctor of Medicine (dr.)*
+
+Cum laude
 
 </div>
 </details>
 
 <details>
-<summary>**Work Experience**</summary>
-
+<summary>**Experience**</summary>
 <div>
 
-**Oxford University Clinical Research Unit Indonesia** · Jakarta, Indonesia
+**Oxford University Clinical Research Unit Indonesia**
+Scientific and Technical Officer · June 2025 – present
 
-*Scientific and Technical Officer* · June 2025 – present
+**World Health Organization**
+Intern, One Health & NTD Programme · December 2024 – May 2025
 
-- Support implementation of a large-scale digital health intervention trial (SPHERES) across two pilot regencies, strengthening primary healthcare information systems serving over 2 million people.
-- Coordinate with the Indonesian Ministry of Health, district health offices, and frontline healthcare workers to align digital reporting systems with national health strategies.
-- Conduct mixed-methods health systems research to identify operational barriers and enabling factors for sustainable integration of digital health tools in primary care services.
-- Analyse maternal and child health indicators using integrated datasets from national health information systems (ePuskesmas, SIKDA, Sigizi).
+**Evidence Based Health Policy Center, IMERI FKUI**
+Research Associate · August 2024 – May 2025
 
----
+**Baa General Hospital, Rote Ndao Regency**
+General Practitioner · August 2022 – August 2023
 
-**World Health Organization** · Geneva, Switzerland
-
-*Intern – One Health & Neglected Tropical Diseases Programme* · December 2024 – May 2025
-
-- Supported WHO efforts to operationalise the One Health approach for neglected zoonotic diseases, including rabies, cystic echinococcosis, taeniasis/cysticercosis, and foodborne trematodiases.
-- Collaborated with WHO technical teams and external partners including Gavi and US CDC to develop tools supporting integration of rabies post-exposure prophylaxis into national immunisation programmes.
-- Supported the Diagnostics Technical Advisory Group (DTAG) through evidence synthesis and drafting of WHO Target Product Profiles for parasitic disease diagnostics.
-- Assisted preparation and coordination of the 2nd WHO Global Skin-Related NTD Meeting (2025) involving more than 300 international participants.
-- Developed a routine data insights dashboard for NTD surveillance using Power BI and R.
-
----
-
-**Evidence Based Health Policy Center, IMERI FKUI** · Jakarta, Indonesia
-
-*Research Associate (Part-time)* · August 2024 – May 2025
-
-- Conducted qualitative research evaluating Indonesia's health service delivery using the WHO Health System Performance Assessment framework.
-- Applied thematic and SCAT analysis to synthesise stakeholder perspectives into policy-relevant insights.
-
----
-
-**Baa General Hospital, Rote Ndao Regency** · East Nusa Tenggara, Indonesia
-
-*General Practitioner* · August 2022 – August 2023
-
-- Provided frontline clinical care in a government-designated underserved district hospital in eastern Indonesia.
-- Initiated and implemented a community-based tuberculosis screening programme, increasing TB case detection eightfold through outreach and community engagement.
-- Collaborated with local health authorities to strengthen disease surveillance in resource-constrained settings.
-
----
-
-**Clinical Epidemiology and Evidence-Based Medicine (CEEBM) Unit, Cipto Mangunkusumo Hospital** · Jakarta, Indonesia
-
-*Research Intern* · January 2022 – July 2022
-
-- Conducted a systematic review on Comprehensive Geriatric Assessment.
-- Contributed to a COVID-19 vaccine immunogenicity study among healthcare workers.
-- Assisted early-stage Health Technology Assessment analyses for the Indonesian Ministry of Health.
+**CEEBM, Cipto Mangunkusumo Hospital**
+Research Intern · January 2022 – July 2022
 
 </div>
 </details>
 
 <details>
 <summary>**Publications**</summary>
-
 <div>
 
 [Report of the eighteenth meeting of the Strategic and Technical Advisory Group for Neglected Tropical Diseases](https://www.who.int/publications/i/item/9789240112285)
-
-*World Health Organization, Global Neglected Tropical Diseases Programme* · August 2025
+*WHO Global NTD Programme · August 2025*
 
 ---
 
 [WHO guidelines for the treatment of patients with cystic echinococcosis](https://www.who.int/publications/i/item/9789240110472)
-
-*World Health Organization, Global Neglected Tropical Diseases Programme* · June 2025
+*WHO Global NTD Programme · June 2025*
 
 ---
 
 [The effectiveness of comprehensive geriatric assessment intervention for older people in outpatient setting: a systematic review/meta-analysis](https://doi.org/10.1186/s12877-025-06048-8)
-
-Eka Dian Safitri, Respati Wulansari Ranakusuma, Natan Kevin Partogu Siagian, Jessica Marsigit, Siti Rizny Fitriana Saldi, Widyaningsih Widyaningsih, Rahmi Istanti, Muhammad Khifzhon Azwar, **Risyad Abiyyu Siregar**, Kuntjoro Harimurti, Siti Setiati · *BMC Geriatrics* · July 2025
+*BMC Geriatrics · July 2025*
 
 ---
 
 Indonesia Diabetes Diagnosis, Treatment, and Control: Trends, Challenges, and Socioeconomic Influences (2013–2022)
-
-Farizal Rizky Muharram, **Risyad Abiyyu Siregar**, Mohammad Qoimam Bilqisthi Zulfikar, Aqsha Azhary Nur, Dante Saksono Harbuwono · *Preprints for The Lancet: Diabetes and Endocrinology* · October 2024 *(awaiting peer review)*
+*Preprints for The Lancet: Diabetes and Endocrinology · October 2024 · awaiting peer review*
 
 ---
 
 Evaluating Indonesia's Health Service Delivery: A Qualitative Study Using the WHO Health System Performance Assessment Framework
-
-Mohammad Kurniawan, Nico Gamalliel, **Risyad Abiyyu Siregar**, Deandra Ardya, Ahmad Fuady · *Presented at European Health Management Association (EHMA) Conference 2025, Rennes, France* · June 2025
-
-</div>
-</details>
-
-<details>
-<summary>**Core Competencies**</summary>
-
-<div>
-
-**Medical & Scientific Expertise**
-
-Clinical medicine (MD) with specialisation in infectious diseases and global health · Zoonotic diseases and operationalisation of One Health approaches · Evidence-based medicine, diagnostics, and health systems strengthening · Real-world evidence (RWE) and digital health transformation in primary care
-
-**Scientific Communication & Stakeholder Engagement**
-
-Scientific writing and technical report drafting · Policy brief development and evidence translation for decision-makers · Cross-sectoral collaboration with international organisations, ministries of health, and local health authorities
-
-**Research & Data Analysis**
-
-Quantitative analysis using R and epidemiological methods · Qualitative research including thematic analysis and SCAT · Systematic reviews, meta-analysis, and evidence synthesis (Covidence, ASReview) · Data visualisation and analytical reporting (Power BI, R Shiny, Excel)
-
-**Project Implementation & Coordination**
-
-Multisite stakeholder coordination across district health offices and community health systems · Secretariat and coordination support for international technical meetings · Technical support for programme implementation in resource-constrained settings · Monitoring and evaluation including dashboard development
-
-**Languages**
-
-English — professional fluency (IELTS 8.0 / CEFR C1) · Indonesian — native
+*Presented at EHMA Conference, Rennes, France · June 2025*
 
 </div>
 </details>
+
+:::
+
+:::
