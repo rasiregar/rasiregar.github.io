@@ -10,7 +10,7 @@ title-block-banner: false
 // ADD NEW PEARLS HERE — newest at the top
 // ============================================================
 const PEARLS = [
-  { date: "2026-08-01", text: "Ranna aku S sekali pengen ngentot." },
+  { date: "2026-08-01", text: "Need to remind myself often: there is no joy in materialistic things. No amount of wealth can fulfill our soul. Fulfillment comes from community." },
   { date: "2026-08-01", text: "Janganlah kita terlalu gegabah. Selalu ada ruang untuk berkembang." },
 ];
 // ============================================================
@@ -24,27 +24,13 @@ async function sha256(msg) {
 }
 
 async function unlock() {
-  const btn = document.getElementById("btn");
-  const input = document.getElementById("pwd");
-  const err = document.getElementById("err");
-
-  btn.disabled = true;
-  btn.textContent = "Checking...";
-  err.style.display = "none";
-
-  const hash = await sha256(input.value.trim());
-
+  const val = document.getElementById("pwd").value;
+  const hash = await sha256(val);
   if (hash === HASH) {
     sessionStorage.setItem(KEY, "1");
-    document.getElementById("gate").style.opacity = "0";
-    setTimeout(show, 300);
+    show();
   } else {
-    input.classList.add("shake");
-    input.value = "";
-    err.style.display = "block";
-    btn.disabled = false;
-    btn.textContent = "Enter";
-    setTimeout(() => input.classList.remove("shake"), 500);
+    document.getElementById("err").style.display = "block";
   }
 }
 
@@ -62,72 +48,11 @@ function show() {
 
 document.addEventListener("DOMContentLoaded", function() {
   if (sessionStorage.getItem(KEY) === "1") show();
-  document.getElementById("pwd").focus();
 });
 </script>
 
 <style>
-#gate {
-  max-width: 340px;
-  margin: 100px auto 0;
-  text-align: center;
-  transition: opacity 0.3s ease;
-}
-#gate h2 {
-  font-size: 1.5rem;
-  font-weight: 600;
-  margin-bottom: 0.3rem;
-  color: #1a1a1a;
-}
-#gate .subtitle {
-  color: #6e6e73;
-  font-size: 0.9rem;
-  margin-bottom: 2rem;
-}
-#pwd {
-  width: 100%;
-  padding: 0.65rem 1rem;
-  border: 1.5px solid #ebebeb;
-  border-radius: 8px;
-  font-size: 1rem;
-  outline: none;
-  box-sizing: border-box;
-  text-align: center;
-  transition: border-color 0.2s;
-  background: #fafafa;
-}
-#pwd:focus { border-color: #2d6a4f; background: #fff; }
-#btn {
-  margin-top: 0.75rem;
-  width: 100%;
-  padding: 0.65rem;
-  background: #2d6a4f;
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  cursor: pointer;
-  transition: background 0.2s, opacity 0.2s;
-}
-#btn:hover { background: #245a40; }
-#btn:disabled { opacity: 0.6; cursor: default; }
-#err {
-  display: none;
-  margin-top: 0.75rem;
-  padding: 0.5rem 0.75rem;
-  background: #fef2f2;
-  border: 1px solid #fecaca;
-  border-radius: 6px;
-  color: #b91c1c;
-  font-size: 0.85rem;
-}
-@keyframes shake {
-  0%,100% { transform: translateX(0); }
-  20%,60% { transform: translateX(-6px); }
-  40%,80% { transform: translateX(6px); }
-}
-.shake { animation: shake 0.4s ease; border-color: #b91c1c !important; }
-
+#gate { max-width:360px; margin:80px auto; text-align:center; }
 #pearls { display:none; max-width:680px; margin:0 auto; }
 .pearl-list { border-top: 1px solid #ebebeb; }
 .pearl { display:grid; grid-template-columns:110px 1fr; gap:1rem; padding:1.1rem 0; border-bottom:1px solid #ebebeb; align-items:start; }
@@ -137,11 +62,13 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div id="gate">
-  <h2>Pearls of Wisdom</h2>
-  <p class="subtitle">Write the magic word.</p>
-  <input id="pwd" type="text" onkeydown="if(event.key==='Enter') unlock()" autocomplete="off" />
-  <button id="btn" onclick="unlock()">Enter</button>
-  <div id="err">Wrong word. Try again.</div>
+  <h2 style="font-size:1.4rem;margin-bottom:0.4rem;">Pearls of Wisdom</h2>
+  <p style="color:#6e6e73;font-size:0.9rem;margin-bottom:1.5rem;">Write the magic word.</p>
+  <input id="pwd" type="text" onkeydown="if(event.key==='Enter') unlock()"
+    style="width:100%;padding:0.5rem 0.75rem;border:1px solid #ebebeb;border-radius:6px;font-size:1rem;outline:none;box-sizing:border-box;text-align:center;" />
+  <button onclick="unlock()"
+    style="margin-top:0.75rem;width:100%;padding:0.5rem;background:#2d6a4f;color:#fff;border:none;border-radius:6px;font-size:1rem;cursor:pointer;">Enter</button>
+  <p id="err" style="display:none;color:#c0392b;font-size:0.85rem;margin-top:0.5rem;">Wrong word.</p>
 </div>
 
 <div id="pearls"></div>
