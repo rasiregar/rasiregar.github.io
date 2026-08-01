@@ -10,6 +10,7 @@ title-block-banner: false
 // ADD NEW PEARLS HERE — newest at the top
 // ============================================================
 const PEARLS = [
+  { date: "2026-08-01", text: "Ranna aku S sekali pengen ngentot."}
   { date: "2026-08-01", text: "Janganlah kita terlalu gegabah. Selalu ada ruang untuk berkembang." },
 ];
 // ============================================================
