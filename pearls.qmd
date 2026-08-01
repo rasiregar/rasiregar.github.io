@@ -15,8 +15,8 @@ const PEARLS = [
 ];
 // ============================================================
 
-const HASH = "074f2d98a216b0b52af5665889d5aefd4e5025cdb0a73b0b855c6cff86e61d30";
-const KEY = "pearls_v3";
+const HASH = "1629f4e5aa54f5d8f3f5134f5fa9a01b5b9b021d94204626a0caef2e555cb16b";
+const KEY = "pearls_v4";
 
 async function sha256(msg) {
   const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(msg));
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <style>
-#gate { max-width:360px; margin:80px auto; text-align:center; }
+#gate { max-width:360px; margin:80px auto 0; text-align:center; display:flex; flex-direction:column; align-items:center; }
 #pearls { display:none; max-width:680px; margin:0 auto; }
 .pearl-list { border-top: 1px solid #ebebeb; }
 .pearl { display:grid; grid-template-columns:110px 1fr; gap:1rem; padding:1.1rem 0; border-bottom:1px solid #ebebeb; align-items:start; }
