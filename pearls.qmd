@@ -1,0 +1,104 @@
+---
+title: ""
+page-layout: article
+title-block-banner: false
+---
+
+<div id="gate" style="max-width:360px; margin:80px auto; text-align:center;">
+  <h2 style="font-size:1.4rem; margin-bottom:0.4rem;">Pearls of Wisdom</h2>
+  <p style="color:#6e6e73; font-size:0.9rem; margin-bottom:1.5rem;">Password required.</p>
+  <input
+    id="pwd"
+    type="password"
+    placeholder="Enter password"
+    onkeydown="if(event.key==='Enter') unlock()"
+    style="width:100%; padding:0.5rem 0.75rem; border:1px solid #ebebeb; border-radius:6px; font-size:1rem; outline:none; box-sizing:border-box;"
+  />
+  <button
+    onclick="unlock()"
+    style="margin-top:0.75rem; width:100%; padding:0.5rem; background:#2d6a4f; color:#fff; border:none; border-radius:6px; font-size:1rem; cursor:pointer;"
+  >Enter</button>
+  <p id="err" style="display:none; color:#c0392b; font-size:0.85rem; margin-top:0.5rem;">Wrong password.</p>
+</div>
+
+<div id="pearls" style="display:none; max-width:680px; margin:0 auto;">
+  <h1 style="font-size:1.6rem; margin-bottom:0.25rem;">Pearls of Wisdom</h1>
+  <p style="color:#6e6e73; font-size:0.9rem; margin-bottom:2rem;">Daily rantings. Handle with care.</p>
+
+  <div class="pearl-list">
+
+    <!-- ADD NEW PEARLS AT THE TOP. Format:
+    <div class="pearl">
+      <span class="pearl-date">YYYY-MM-DD</span>
+      <p class="pearl-text">Your 1-2 sentence ranting here.</p>
+    </div>
+    -->
+
+    <div class="pearl">
+      <span class="pearl-date">2026-08-01</span>
+      <p class="pearl-text">Every expert was once a beginner who refused to quit. The only difference is they kept going when it stopped being fun.</p>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.pearl-list {
+  border-top: 1px solid #ebebeb;
+}
+.pearl {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid #ebebeb;
+  align-items: start;
+}
+.pearl-date {
+  color: #6e6e73;
+  font-size: 0.82rem;
+  padding-top: 0.15rem;
+  white-space: nowrap;
+}
+.pearl-text {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.65;
+  color: #1a1a1a;
+}
+@media (max-width: 480px) {
+  .pearl {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+</style>
+
+<script>
+const HASH = "074f2d98a216b0b52af5665889d5aefd4e5025cdb0a73b0b855c6cff86e61d30";
+
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(msg));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,"0")).join("");
+}
+
+async function unlock() {
+  const val = document.getElementById("pwd").value;
+  const hash = await sha256(val);
+  if (hash === HASH) {
+    sessionStorage.setItem("pearls_ok", "1");
+    show();
+  } else {
+    document.getElementById("err").style.display = "block";
+  }
+}
+
+function show() {
+  document.getElementById("gate").style.display = "none";
+  document.getElementById("pearls").style.display = "block";
+}
+
+window.addEventListener("DOMContentLoaded", () => {
+  if (sessionStorage.getItem("pearls_ok") === "1") show();
+});
+</script>
