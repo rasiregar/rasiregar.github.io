@@ -47,7 +47,7 @@ title-block-banner: false
   <div class="pearl-list">
     <div class="pearl">
       <span class="pearl-date">2026-08-01</span>
-      <p class="pearl-text">Every expert was once a beginner who refused to quit. The only difference is they kept going when it stopped being fun.</p>
+      <p class="pearl-text">Janganlah kita terlalu gegabah. Selalu ada ruang untuk berkembang.</p>
     </div>
   </div>
 </div>
