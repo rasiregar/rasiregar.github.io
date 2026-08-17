@@ -10,7 +10,8 @@ convert_medium.py
 *_files/
 /*.html
 /*-listing.json
-"Risyad Abiyyu Siregar_CV.docx"
+Risyad Abiyyu Siregar_CV.docx
+site_libs/
 
 /.quarto/
 **/*.quarto_ipynb
