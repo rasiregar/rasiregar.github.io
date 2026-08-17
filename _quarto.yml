@@ -4,17 +4,20 @@ project:
 
 website:
   title: "Risyad A. Siregar"
+  favicon: favicon.svg
   google-analytics: "G-2BCRMN1T6G"
   navbar:
     background: light
     foreground: dark
     left:
-      - href: thoughts.qmd
-        text: Thoughts
       - href: index.qmd
         text: About
+      - href: thoughts.qmd
+        text: Thoughts
       - href: contact.qmd
         text: Contact
+      - href: pearls.qmd
+        text: Pearls of Wisdom
   page-footer:
     left:
       - icon: envelope
